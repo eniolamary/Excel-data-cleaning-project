@@ -1,0 +1,911 @@
+Transaction ID,Customer ID,Customer Name,Category,Item,Price Per Unit,Quantity,Total Spent,Payment Method,Location,Transaction Date,Discount Applied
+TXN_1340876,CUST_33,Tracy Wright,Food,Item_0_MISC,28.75,7.00,$201.25,CreditCard,Online,13/04/2024,TRUE
+TXN_5645225,CUST_19,Kevin Reed,Food,Item_6_FOOD,20.15,4.00,$80.60,Cash,Online,28/05/2025,UNKNOWN
+TXN_1618566,CUST_22,Terry Montgomery,Milk Products,Item_0_MISC,61.815,4.00,$247.26,CreditCard,Online,24/07/2025,UNKNOWN
+TXN_6595358,CUST_31,Robert Bradshaw,Food,Item_2_FOOD,19.32,1.00,$19.32,Cash,In-store,03/06/2024,TRUE
+TXN_7720840,CUST_34,John Russell,Patisserie,Item_0_MISC,16.64,7.00,$116.48,CreditCard,In-store,02/11/2025,UNKNOWN
+TXN_3582415,CUST_18,Anthony Mann,Patisserie,Item_11_PAT,18.06,10.00,$180.60,Digital Wallet,Online,27/10/2025,TRUE
+TXN_9346134,CUST_36,Benjamin Dixon,Milk Products,Item_17_MILK,18.21,10.00,$182.10,Digital Wallet,In-store,24/05/2023,TRUE
+TXN_2838159,CUST_36,Robert Russo,Butchers,Item_13_BUT,7.01,3.00,$21.03,Cash,Online,09/09/2024,TRUE
+TXN_6615999,CUST_32,Donald Tyler,Milk Products,Item_17_MILK,17.47,3.00,$52.41,Cash,In-store,26/11/2023,FALSE
+TXN_8064398,CUST_21,Jennifer Goodman,Milk Products,Item_18_MILK,31.40,7.00,$219.80,CreditCard,In-store,11/10/2025,UNKNOWN
+TXN_7322648,CUST_16,Lindsey Olsen,Milk Products,Item_18_MILK,11.89,3.00,$35.67,Digital Wallet,In-store,01/09/2025,TRUE
+TXN_8675008,CUST_32,Mackenzie Baker,Food,Item_1_FOOD,19.67,8.00,$157.36,Cash,In-store,18/11/2025,FALSE
+TXN_2366101,CUST_49,Laura Hill,Food,Item_0_MISC,22.90,12.50,$286.27,Digital Wallet,In-store,31/07/2023,FALSE
+TXN_6505883,CUST_15,Eric Trujillo,Milk Products,UNKNOWN,9.18,6.00,$55.08,Cash,In-store,13/02/2024,TRUE
+TXN_3725741,CUST_09,Belinda Clark,Beverages,Item_15_BEV,28.33,8.00,$226.64,Credit Card,Online,24/10/2025,FALSE
+TXN_5638736,CUST_05,Monica Henry,Food,Item_6_FOOD,18.92,2.93,$55.46,Cash,Online,10/08/2023,FALSE
+TXN_7868790,CUST_09,Megan Schaefer,Food,Item_0_MISC,12.15,9.00,$109.35,CreditCard,In-store,20/07/2025,TRUE
+TXN_3970918,CUST_14,Ricky Delgado,Food,Item_0_MISC,6.73,19.86,$133.65,Credit Card,In-store,02/05/2024,TRUE
+TXN_5534852,CUST_24,Chad Larson,Beverages,Item_16_BEV,19.57,5.00,$97.85,Digital Wallet,In-store,30/10/2023,FALSE
+TXN_2527267,CUST_18,Andrew Harris,Furniture,UNKNOWN,6.65,10.00,$66.53,Credit Card,Online,25/10/2023,UNKNOWN
+TXN_2212414,CUST_10,Tracy Vasquez,Butchers,Item_13_BUT,7.68,3.00,$23.04,CreditCard,Online,07/04/2025,FALSE
+TXN_1348489,CUST_03,Matthew Allen,Beverages,Item_16_BEV,13.39,7.00,$93.73,CreditCard,In-store,12/05/2024,TRUE
+TXN_5359573,CUST_12,Kelly Jimenez,Food,Item_0_MISC,14.96,4.00,$59.84,Credit Card,In-store,16/12/2025,UNKNOWN
+TXN_4232362,CUST_06,Tiffany Porter,Patisserie,Item_0_MISC,12.30,5.00,$61.50,Digital Wallet,Online,03/04/2025,UNKNOWN
+TXN_1601025,CUST_29,Jerry Baird,Food,Item_6_FOOD,11.68,9.00,$105.12,Digital Wallet,In-store,27/10/2025,UNKNOWN
+TXN_1949853,CUST_26,Jack Martinez,Patisserie,Item_0_MISC,27.93,2.00,$55.86,Cash,In-store,12/04/2023,TRUE
+TXN_6314527,CUST_31,Joshua Benitez,Milk Products,Item_17_MILK,7.50,3.00,$22.50,Credit Card,Online,23/05/2024,TRUE
+TXN_7041327,CUST_18,Stephen Sanford,Food,UNKNOWN,8.88,5.00,$44.40,Credit Card,In-store,19/07/2025,FALSE
+TXN_3445168,CUST_46,Anthony Dominguez,Milk Products,Item_18_MILK,27.47,9.00,$247.23,Cash,Online,31/03/2023,UNKNOWN
+TXN_7684957,CUST_18,Heather Hunt,Butchers,Item_12_BUT,20.94,6.00,$125.64,Digital Wallet,In-store,02/10/2025,TRUE
+TXN_3982887,CUST_18,Amber Hayes,Milk Products,Item_18_MILK,27.25,8.86,$241.45,Digital Wallet,Online,13/02/2024,FALSE
+TXN_9669897,CUST_15,Eric Lynch,Furniture,Item_16_FUR,29.77,7.00,$208.39,Digital Wallet,In-store,14/05/2025,UNKNOWN
+TXN_9997895,CUST_47,Trevor Smith Jr.,Beverages,Item_0_MISC,26.12,9.00,$235.08,CreditCard,Online,07/12/2025,UNKNOWN
+TXN_6603258,CUST_11,Mr. Anthony Jones Jr.,Beverages,Item_0_MISC,27.53,6.00,$165.18,Cash,Online,01/08/2024,TRUE
+TXN_5377348,CUST_38,Stephanie Griffin,Beverages,Item_0_MISC,18.77,7.00,$131.39,Credit Card,In-store,04/04/2023,UNKNOWN
+TXN_4968174,CUST_19,Leah Skinner,Food,Item_0_MISC,9.92,8.00,$79.36,CreditCard,Online,02/05/2025,UNKNOWN
+TXN_1187625,CUST_23,Kathleen Boone,Patisserie,Item_10_PAT,9.92,8.00,$79.36,CreditCard,In-store,05/08/2025,FALSE
+TXN_2179113,CUST_14,Stephen Gutierrez,Patisserie,Item_10_PAT,34.95,6.00,$209.70,Digital Wallet,Online,09/06/2024,FALSE
+TXN_4891896,CUST_41,Stephen Lee,Patisserie,Item_11_PAT,31.47,1.00,$31.47,Digital Wallet,In-store,02/02/2025,UNKNOWN
+TXN_8575089,CUST_38,Scott Henderson,Milk Products,UNKNOWN,21.32,10.00,$213.20,Digital Wallet,Online,04/08/2023,TRUE
+TXN_6674083,CUST_02,Anthony Branch,Milk Products,Item_17_MILK,16.75,10.00,$167.50,Digital Wallet,In-store,16/01/2026,FALSE
+TXN_3520922,CUST_29,Kyle Warner,Patisserie,Item_0_MISC,5.31,8.00,$42.44,Digital Wallet,In-store,07/02/2025,TRUE
+TXN_3601134,CUST_01,Melissa Jennings,Butchers,Item_13_BUT,8.60,10.00,$86.00,Credit Card,Online,10/05/2023,UNKNOWN
+TXN_9904275,CUST_01,Gerald Shelton,Butchers,Item_13_BUT,8.39,10.00,$83.90,CreditCard,Online,22/02/2025,TRUE
+TXN_5312430,CUST_48,David Richardson,Milk Products,Item_0_MISC,15.02,9.00,$135.18,CreditCard,In-store,05/01/2024,FALSE
+TXN_9323318,CUST_34,John Miller,Beverages,UNKNOWN,27.48,1.00,$27.48,Digital Wallet,Online,12/03/2024,FALSE
+TXN_8174938,CUST_11,Joshua Ferrell,Milk Products,Item_17_MILK,13.41,4.00,$53.64,Digital Wallet,Online,10/10/2025,TRUE
+TXN_7448547,CUST_46,Allison Smith,Beverages,Item_0_MISC,7.11,4.00,$28.44,Digital Wallet,Online,02/01/2024,UNKNOWN
+TXN_3776529,CUST_25,Justin Mejia,Furniture,Item_16_FUR,25.57,1.00,$25.57,Credit Card,In-store,06/08/2024,TRUE
+TXN_8327056,CUST_38,Matthew Smith,Beverages,Item_15_BEV,12.35,6.00,$74.10,Credit Card,In-store,08/04/2024,FALSE
+TXN_3109068,CUST_07,Terry Henderson,Milk Products,Item_0_MISC,27.14,8.00,$217.12,Digital Wallet,In-store,20/05/2024,TRUE
+TXN_8364680,CUST_16,Melissa Friedman,Furniture,Item_16_FUR,21.87,2.00,$43.74,Digital Wallet,Online,28/11/2025,FALSE
+TXN_2970502,CUST_17,Suzanne Gibson,Food,Item_2_FOOD,32.00,1.00,$32.00,Digital Wallet,In-store,19/12/2025,TRUE
+TXN_5315939,CUST_09,Lee Wong,Butchers,Item_13_BUT,33.16,2.00,$66.32,Cash,Online,07/06/2024,TRUE
+TXN_5100303,CUST_14,Justin Walker,Furniture,Item_16_FUR,28.03,10.00,$280.30,Digital Wallet,Online,20/09/2024,UNKNOWN
+TXN_7081877,CUST_02,Christopher Arnold,Milk Products,Item_0_MISC,17.76,2.00,$35.52,CreditCard,Online,28/01/2024,UNKNOWN
+TXN_1315810,CUST_04,Michael Armstrong,Furniture,Item_17_FUR,31.98,2.00,$63.96,Cash,In-store,09/09/2024,FALSE
+TXN_7719831,CUST_24,Paul Gonzalez,Beverages,Item_0_MISC,13.47,4.00,$53.88,Cash,Online,12/04/2025,TRUE
+TXN_7984344,CUST_07,Kyle Aguirre,Food,Item_6_FOOD,14.76,3.00,$44.28,CreditCard,In-store,10/05/2023,UNKNOWN
+TXN_2743753,CUST_03,James White MD,Patisserie,Item_0_MISC,13.61,2.00,$27.22,CreditCard,Online,16/05/2025,UNKNOWN
+TXN_6203016,CUST_26,Brandon Martinez,Patisserie,Item_0_MISC,16.80,9.00,$151.20,CreditCard,In-store,02/11/2023,FALSE
+TXN_1326141,CUST_48,Margaret Weber,Furniture,Item_16_FUR,20.09,1.00,$20.09,CreditCard,In-store,02/10/2025,FALSE
+TXN_7662473,CUST_34,Nathaniel York,Beverages,Item_0_MISC,28.46,4.00,$113.84,Cash,In-store,18/12/2025,FALSE
+TXN_6518291,CUST_45,Richard Bennett,Milk Products,Item_0_MISC,17.86,7.00,$125.02,Digital Wallet,Online,12/05/2024,TRUE
+TXN_9657024,CUST_25,Jessica Stokes,Milk Products,Item_0_MISC,11.08,8.00,$88.64,Cash,Online,21/12/2024,UNKNOWN
+TXN_9992149,CUST_24,Andres Long,Beverages,Item_15_BEV,23.15,1.00,$23.15,Credit Card,In-store,03/09/2023,TRUE
+TXN_5782544,CUST_36,Jeffrey Cabrera,Beverages,UNKNOWN,21.50,10.00,$215.00,Digital Wallet,Online,04/06/2025,UNKNOWN
+TXN_5092431,CUST_37,Judy Miller,Beverages,Item_0_MISC,20.35,9.00,$183.15,Digital Wallet,In-store,18/05/2024,FALSE
+TXN_9025035,CUST_11,Lisa Buck,Milk Products,Item_18_MILK,25.25,9.00,$227.25,Digital Wallet,In-store,25/08/2023,TRUE
+TXN_4855930,CUST_18,Andrew Brown,Furniture,Item_16_FUR,34.99,6.00,$209.94,Digital Wallet,Online,18/02/2025,UNKNOWN
+TXN_8442487,CUST_05,Janet Hernandez,Food,Item_0_MISC,13.55,10.00,$135.50,CreditCard,In-store,02/01/2026,UNKNOWN
+TXN_2206012,CUST_33,Rachel Beck,Food,Item_1_FOOD,27.61,10.00,$276.10,Credit Card,In-store,22/05/2023,UNKNOWN
+TXN_3095677,CUST_37,Keith Jones,Furniture,Item_17_FUR,18.54,10.00,$185.40,Cash,Online,31/01/2024,UNKNOWN
+TXN_3171883,CUST_34,Charles Gutierrez,Food,Item_0_MISC,10.38,9.00,$93.42,Digital Wallet,In-store,11/06/2023,UNKNOWN
+TXN_5555038,CUST_01,Brittany Holloway,Food,Item_2_FOOD,14.13,2.00,$28.26,Digital Wallet,In-store,02/04/2025,FALSE
+TXN_1066546,CUST_33,Charles Henderson,Food,Item_0_MISC,29.69,5.00,$148.45,Digital Wallet,Online,30/01/2025,FALSE
+TXN_5762696,CUST_25,Colleen Williams,Furniture,Item_17_FUR,24.91,4.00,$99.64,CreditCard,Online,14/01/2025,FALSE
+TXN_7132555,CUST_35,Tyler Diaz,Patisserie,Item_10_PAT,16.05,7.00,$112.35,CreditCard,In-store,08/06/2024,TRUE
+TXN_2096892,CUST_47,Alisha Evans,Beverages,Item_0_MISC,24.30,8.42,$204.67,Cash,In-store,14/06/2023,FALSE
+TXN_6549737,CUST_04,Kevin Monroe,Beverages,Item_0_MISC,25.25,9.00,$227.25,Digital Wallet,In-store,27/05/2023,FALSE
+TXN_1893983,CUST_21,Michael Flynn,Milk Products,Item_18_MILK,17.94,5.00,$89.70,Cash,In-store,23/08/2023,FALSE
+TXN_2857835,CUST_38,Mark Allen,Beverages,Item_15_BEV,27.94,5.00,$139.70,Cash,Online,09/02/2025,FALSE
+TXN_6176664,CUST_15,Patrick Hernandez,Patisserie,Item_0_MISC,15.24,1.00,$15.24,Credit Card,Online,01/08/2023,TRUE
+TXN_6876767,CUST_40,Cynthia Reyes,Beverages,Item_0_MISC,15.83,3.00,$47.49,Digital Wallet,Online,10/07/2023,TRUE
+TXN_6007292,CUST_31,Michael Michael,Beverages,Item_0_MISC,33.92,4.00,$135.68,Digital Wallet,Online,04/04/2023,UNKNOWN
+TXN_6968661,CUST_20,Jose Knight,Butchers,Item_13_BUT,26.01,4.00,$104.04,CreditCard,Online,14/04/2025,FALSE
+TXN_8164787,CUST_41,Kimberly Lee,Butchers,Item_13_BUT,25.75,4.00,$103.00,CreditCard,In-store,23/08/2025,TRUE
+TXN_3872770,CUST_21,Douglas Robinson,Food,Item_0_MISC,11.37,9.00,$102.33,CreditCard,Online,25/07/2024,FALSE
+TXN_4452536,CUST_36,Matthew Marquez,Food,Item_0_MISC,29.35,8.31,$243.89,CreditCard,In-store,19/09/2025,TRUE
+TXN_6028741,CUST_29,Ashley Simon,Beverages,Item_16_BEV,16.79,9.00,$151.11,Credit Card,In-store,20/02/2025,TRUE
+TXN_8707009,CUST_44,Timothy Mccarthy,Food,Item_0_MISC,25.06,6.00,$150.36,Digital Wallet,In-store,16/03/2026,FALSE
+TXN_2246588,CUST_24,Joshua Hampton,Milk Products,Item_18_MILK,26.74,5.00,$133.70,Cash,Online,06/01/2024,UNKNOWN
+TXN_2550717,CUST_48,Katherine Giles,Furniture,Item_17_FUR,25.42,4.00,$101.68,CreditCard,In-store,19/10/2024,FALSE
+TXN_1430081,CUST_48,Stephanie Johnson,Patisserie,Item_0_MISC,11.27,5.00,$56.35,Digital Wallet,In-store,24/03/2024,TRUE
+TXN_7332804,CUST_46,Heidi Vaughn,Food,UNKNOWN,13.97,5.00,$69.85,Cash,In-store,18/09/2023,TRUE
+TXN_1063832,CUST_12,Charles Ramirez,Butchers,Item_12_BUT,13.62,10.00,$136.20,Credit Card,Online,01/12/2023,FALSE
+TXN_5902531,CUST_09,Joel Sutton,Milk Products,Item_0_MISC,30.78,10.00,$307.80,Cash,In-store,27/09/2024,FALSE
+TXN_1989328,CUST_44,Steven Hill,Beverages,Item_0_MISC,26.14,2.00,$52.28,Credit Card,In-store,25/10/2023,FALSE
+TXN_3365600,CUST_17,Cory Lewis,Milk Products,Item_0_MISC,6.31,5.00,$31.55,CreditCard,Online,07/10/2024,UNKNOWN
+TXN_8579034,CUST_15,Richard Johnson,Furniture,Item_16_FUR,20.10,8.00,$160.80,Digital Wallet,Online,15/11/2025,UNKNOWN
+TXN_8144378,CUST_18,Brandon Simmons,Food,Item_1_FOOD,35.22,8.00,$281.76,Credit Card,In-store,14/08/2024,FALSE
+TXN_2448768,CUST_07,Michelle Robertson,Patisserie,Item_11_PAT,26.34,10.00,$263.40,Credit Card,In-store,26/07/2023,UNKNOWN
+TXN_6773096,CUST_18,Mandy Gordon,Milk Products,Item_18_MILK,6.49,5.00,$32.45,Digital Wallet,Online,22/06/2024,UNKNOWN
+TXN_5137068,CUST_24,Brandi Williams,Patisserie,Item_0_MISC,25.78,10.00,$257.80,Digital Wallet,In-store,27/12/2025,FALSE
+TXN_2374032,CUST_14,Danielle Schwartz,Furniture,Item_16_FUR,31.65,1.00,$31.65,CreditCard,In-store,09/03/2025,TRUE
+TXN_6032676,CUST_46,Kyle Watkins,Milk Products,Item_0_MISC,15.82,1.00,$15.82,Credit Card,Online,23/03/2024,UNKNOWN
+TXN_6811487,CUST_07,Brian Harrison,Beverages,Item_0_MISC,5.77,5.00,$28.85,Digital Wallet,Online,14/09/2024,TRUE
+TXN_4355858,CUST_34,Jeremy Wu,Milk Products,UNKNOWN,28.62,1.00,$28.62,Cash,In-store,29/03/2023,UNKNOWN
+TXN_1965015,CUST_03,Alan Bennett,Milk Products,Item_18_MILK,13.70,9.00,$123.30,Digital Wallet,In-store,16/11/2024,UNKNOWN
+TXN_3738934,CUST_05,Jon French,Patisserie,UNKNOWN,29.48,9.00,$265.32,Credit Card,In-store,04/07/2024,FALSE
+TXN_7140444,CUST_17,Kelsey Lee,Butchers,Item_12_BUT,24.13,3.00,$72.39,Credit Card,Online,13/09/2025,TRUE
+TXN_1616204,CUST_17,Melinda Brown,Beverages,Item_0_MISC,9.66,7.00,$67.62,Cash,In-store,23/03/2024,UNKNOWN
+TXN_7044317,CUST_48,Robert Cervantes,Patisserie,Item_10_PAT,34.77,3.00,$104.31,Digital Wallet,In-store,11/08/2023,FALSE
+TXN_8604020,CUST_38,Elizabeth Wheeler,Butchers,Item_13_BUT,11.11,8.00,$88.88,Digital Wallet,Online,08/02/2025,TRUE
+TXN_2366747,CUST_25,Felicia Saunders,Beverages,Item_0_MISC,21.73,1.00,$21.73,CreditCard,In-store,07/06/2023,TRUE
+TXN_3385651,CUST_06,Julie Tapia,Patisserie,Item_10_PAT,10.29,6.00,$61.74,Cash,Online,16/05/2023,FALSE
+TXN_9798578,CUST_44,Michael Coffey,Patisserie,Item_10_PAT,6.79,6.00,$40.74,Digital Wallet,Online,27/03/2024,FALSE
+TXN_1027259,CUST_18,Lisa Smith,Butchers,Item_13_BUT,16.59,3.00,$49.77,CreditCard,Online,29/11/2024,TRUE
+TXN_8601158,CUST_15,Timothy Nelson,Butchers,Item_12_BUT,22.43,9.00,$201.87,Cash,Online,15/07/2025,TRUE
+TXN_7517991,CUST_26,Patricia Cordova,Patisserie,Item_0_MISC,10.21,7.00,$71.47,Digital Wallet,Online,24/11/2025,TRUE
+TXN_7018508,CUST_48,Jessica Kim,Patisserie,Item_0_MISC,14.24,4.27,$60.82,Digital Wallet,In-store,18/02/2024,UNKNOWN
+TXN_5226222,CUST_18,Nicole Franco,Beverages,Item_16_BEV,7.87,9.00,$70.83,Cash,In-store,12/03/2026,TRUE
+TXN_9262350,CUST_45,David Pratt,Butchers,Item_13_BUT,19.57,7.00,$136.99,CreditCard,Online,30/07/2025,UNKNOWN
+TXN_3600423,CUST_24,Lori Oconnell,Beverages,Item_0_MISC,21.39,10.00,$213.90,Cash,In-store,10/09/2024,FALSE
+TXN_8626341,CUST_34,Allen Smith,Patisserie,Item_0_MISC,19.94,1.00,$19.94,Cash,In-store,13/06/2023,FALSE
+TXN_6623773,CUST_36,Mr. Jesse Williams,Beverages,Item_0_MISC,31.17,4.00,$124.68,Cash,Online,06/04/2025,UNKNOWN
+TXN_1426526,CUST_08,Elijah Acosta,Milk Products,Item_18_MILK,29.50,7.00,$206.50,Digital Wallet,In-store,29/11/2024,TRUE
+TXN_9396342,CUST_37,Julie Riley,Food,Item_0_MISC,12.42,10.00,$124.20,Digital Wallet,In-store,22/04/2024,TRUE
+TXN_1873500,CUST_34,Michele Dunn,Beverages,Item_0_MISC,14.02,5.00,$70.10,Digital Wallet,In-store,20/06/2025,TRUE
+TXN_6404152,CUST_04,Kim Moore,Food,Item_0_MISC,29.69,5.00,$148.45,Cash,In-store,25/01/2025,TRUE
+TXN_2757170,CUST_14,Donald Arnold,Furniture,Item_16_FUR,27.30,9.00,$245.70,CreditCard,Online,12/08/2024,FALSE
+TXN_2361864,CUST_15,Jasmine Thompson,Milk Products,Item_0_MISC,9.06,5.00,$45.30,Credit Card,In-store,02/05/2024,FALSE
+TXN_7458472,CUST_47,Amanda Walsh,Furniture,Item_17_FUR,10.79,5.00,$53.95,Digital Wallet,In-store,14/09/2024,TRUE
+TXN_4984740,CUST_04,Jennifer Tran,Furniture,Item_16_FUR,9.89,9.00,$89.01,Cash,Online,31/03/2024,FALSE
+TXN_5345751,CUST_27,Paul Gaines,Beverages,Item_15_BEV,13.57,2.00,$27.14,CreditCard,Online,17/02/2025,TRUE
+TXN_8658090,CUST_18,Christopher Cook,Butchers,Item_12_BUT,29.56,6.00,$177.36,Credit Card,Online,15/04/2023,UNKNOWN
+TXN_7669525,CUST_29,Robert Escobar,Milk Products,Item_0_MISC,32.40,10.00,$324.00,Credit Card,Online,31/07/2024,FALSE
+TXN_1146935,CUST_03,Rita Johnson,Furniture,Item_17_FUR,29.80,5.00,$149.00,CreditCard,Online,25/06/2025,TRUE
+TXN_6067712,CUST_03,Yolanda Martin,Patisserie,Item_11_PAT,34.14,9.00,$307.26,Digital Wallet,In-store,01/12/2024,UNKNOWN
+TXN_8888542,CUST_04,Jessica Ho,Furniture,Item_17_FUR,34.11,9.00,$306.99,Digital Wallet,Online,28/03/2023,UNKNOWN
+TXN_9655482,CUST_01,Debra Mills,Beverages,Item_0_MISC,7.67,2.00,$15.34,Credit Card,In-store,27/07/2023,FALSE
+TXN_4989193,CUST_40,Robin Burch,Food,Item_6_FOOD,29.88,2.00,$59.76,Credit Card,In-store,25/11/2024,TRUE
+TXN_4390930,CUST_20,Shawn Solomon,Furniture,Item_16_FUR,29.26,1.00,$29.26,Digital Wallet,In-store,29/06/2023,TRUE
+TXN_9717310,CUST_44,Karen Anderson,Milk Products,Item_17_MILK,25.95,9.00,$233.55,Credit Card,Online,01/04/2025,TRUE
+TXN_5444017,CUST_04,Brent Fox,Beverages,Item_0_MISC,29.22,1.00,$29.22,Digital Wallet,Online,15/02/2024,TRUE
+TXN_4511800,CUST_40,Jennifer Payne,Milk Products,Item_0_MISC,8.20,9.00,$73.80,Digital Wallet,In-store,24/10/2025,UNKNOWN
+TXN_6149601,CUST_05,Susan Chavez,Food,Item_1_FOOD,12.79,7.00,$89.53,Digital Wallet,In-store,20/11/2025,TRUE
+TXN_2335202,CUST_46,Anne Hensley,Furniture,Item_16_FUR,25.00,10.00,$250.00,Digital Wallet,In-store,14/08/2023,TRUE
+TXN_7105847,CUST_23,Kristen Bond,Butchers,Item_12_BUT,17.31,3.00,$51.93,Cash,Online,13/05/2024,FALSE
+TXN_6407766,CUST_22,Austin Edwards DDS,Milk Products,Item_18_MILK,12.02,3.00,$36.06,Cash,Online,18/12/2024,FALSE
+TXN_6742077,CUST_45,Franklin Young,Furniture,Item_17_FUR,18.46,8.00,$147.68,Cash,In-store,30/06/2025,UNKNOWN
+TXN_3634366,CUST_09,Heather Miles,Food,Item_2_FOOD,34.33,5.00,$171.65,Digital Wallet,In-store,10/02/2026,FALSE
+TXN_4978009,CUST_14,Melissa Martinez,Food,Item_0_MISC,11.45,10.00,$114.50,Digital Wallet,Online,25/10/2023,TRUE
+TXN_5548381,CUST_07,Madison Marks,Food,Item_2_FOOD,34.22,4.00,$136.88,Digital Wallet,In-store,27/03/2024,UNKNOWN
+TXN_1972632,CUST_25,Carla Barton,Patisserie,Item_10_PAT,28.53,5.00,$142.65,CreditCard,In-store,25/01/2025,UNKNOWN
+TXN_7690061,CUST_17,Joel Kennedy,Butchers,Item_12_BUT,15.83,2.00,$31.66,Cash,Online,27/07/2023,UNKNOWN
+TXN_5888607,CUST_34,Michael Johnson,Patisserie,UNKNOWN,32.06,9.00,$288.54,CreditCard,In-store,28/10/2023,TRUE
+TXN_9121043,CUST_36,Luke James,Milk Products,Item_17_MILK,15.02,9.00,$135.18,Digital Wallet,Online,22/07/2025,UNKNOWN
+TXN_8343409,CUST_41,Savannah Gray,Furniture,Item_17_FUR,16.11,4.00,$64.44,CreditCard,In-store,01/09/2025,UNKNOWN
+TXN_7769605,CUST_26,Anthony Daniel,Patisserie,Item_11_PAT,34.23,7.00,$239.61,CreditCard,In-store,02/02/2024,UNKNOWN
+TXN_7208260,CUST_24,Robert Scott,Patisserie,Item_10_PAT,19.71,5.00,$98.55,Cash,Online,15/04/2025,UNKNOWN
+TXN_3072041,CUST_12,Lauren Aguilar,Furniture,Item_17_FUR,25.02,7.00,$175.14,Digital Wallet,In-store,10/06/2025,FALSE
+TXN_8540001,CUST_35,Patricia Hensley,Milk Products,Item_0_MISC,6.61,8.00,$52.88,Credit Card,Online,03/12/2024,UNKNOWN
+TXN_8659289,CUST_48,Rhonda Kelly,Food,Item_0_MISC,26.56,3.00,$79.68,Cash,In-store,22/03/2024,FALSE
+TXN_9153851,CUST_25,Nicholas Howell,Food,Item_0_MISC,28.97,10.00,$289.70,Cash,Online,07/08/2023,UNKNOWN
+TXN_3685197,CUST_43,Kayla Green,Furniture,Item_17_FUR,34.00,5.00,$170.00,Digital Wallet,Online,15/04/2023,FALSE
+TXN_5549477,CUST_28,Michael Jones,Milk Products,Item_0_MISC,20.09,4.00,$80.36,Digital Wallet,Online,07/01/2025,UNKNOWN
+TXN_8262780,CUST_18,Alyssa Hunter,Patisserie,Item_11_PAT,10.88,4.00,$43.52,Digital Wallet,Online,20/09/2024,UNKNOWN
+TXN_3807848,CUST_28,Vincent Tanner,Patisserie,UNKNOWN,19.31,10.00,$193.10,Digital Wallet,Online,18/10/2023,UNKNOWN
+TXN_4165529,CUST_28,Brian Garcia,Milk Products,Item_0_MISC,30.41,2.00,$60.82,Digital Wallet,Online,09/10/2024,TRUE
+TXN_8937391,CUST_05,Theresa Mckay,Beverages,Item_16_BEV,18.02,2.00,$36.04,Credit Card,In-store,16/09/2024,UNKNOWN
+TXN_3988349,CUST_08,Kimberly Tyler,Milk Products,Item_18_MILK,6.97,3.00,$20.91,CreditCard,In-store,06/02/2025,FALSE
+TXN_9341936,CUST_11,Matthew Norman,Milk Products,Item_0_MISC,17.10,2.00,$34.20,Credit Card,In-store,12/11/2024,UNKNOWN
+TXN_9382813,CUST_15,Andrew Johnson,Milk Products,Item_18_MILK,8.33,7.00,$58.31,Cash,In-store,05/04/2023,TRUE
+TXN_6134489,CUST_13,Brett Rodriguez,Patisserie,Item_11_PAT,10.69,2.00,$21.38,Digital Wallet,In-store,26/05/2023,UNKNOWN
+TXN_5015539,CUST_03,Sheila Hamilton,Patisserie,Item_0_MISC,11.79,9.00,$106.11,CreditCard,Online,08/03/2025,UNKNOWN
+TXN_2652638,CUST_33,Megan Johnson,Beverages,Item_0_MISC,15.56,8.00,$124.48,Digital Wallet,In-store,11/01/2024,TRUE
+TXN_7482257,CUST_41,Misty Henderson,Patisserie,Item_0_MISC,10.90,2.00,$21.80,Cash,In-store,14/02/2025,FALSE
+TXN_1109684,CUST_11,Jerry Zimmerman,Furniture,Item_16_FUR,15.52,1.00,$15.52,Cash,In-store,07/07/2024,UNKNOWN
+TXN_1063780,CUST_46,Michael Whitehead,Patisserie,Item_11_PAT,9.81,10.00,$98.10,Digital Wallet,Online,25/03/2023,FALSE
+TXN_4447278,CUST_40,Tamara Mcdonald,Patisserie,UNKNOWN,9.15,8.00,$73.20,Digital Wallet,Online,19/08/2024,TRUE
+TXN_1015762,CUST_37,Catherine Li,Food,Item_1_FOOD,12.44,7.00,$87.08,Digital Wallet,Online,10/07/2023,FALSE
+TXN_3680043,CUST_26,Michael Odonnell,Food,Item_0_MISC,13.46,7.00,$94.22,Cash,Online,16/11/2023,TRUE
+TXN_1584772,CUST_12,Gabrielle Rojas,Milk Products,Item_17_MILK,27.62,1.00,$27.62,Credit Card,Online,15/04/2025,FALSE
+TXN_8188191,CUST_08,Shaun Silva,Food,Item_0_MISC,32.84,1.00,$32.84,Credit Card,In-store,15/07/2024,TRUE
+TXN_4301858,CUST_06,Valerie Sullivan,Beverages,Item_0_MISC,9.41,4.00,$37.64,Digital Wallet,Online,28/04/2024,TRUE
+TXN_6087765,CUST_40,Pamela Beard,Food,Item_1_FOOD,11.85,6.00,$71.10,Credit Card,In-store,20/02/2024,UNKNOWN
+TXN_5095388,CUST_16,James Roth,Food,Item_1_FOOD,15.12,2.00,$30.24,CreditCard,Online,11/02/2024,FALSE
+TXN_1976111,CUST_31,Edward Smith,Furniture,Item_17_FUR,5.74,1.00,$5.74,Cash,Online,01/02/2026,FALSE
+TXN_8801524,CUST_23,Steven Pena,Food,UNKNOWN,23.60,7.00,$165.20,Digital Wallet,In-store,19/10/2025,FALSE
+TXN_7869719,CUST_09,Kayla Smith,Milk Products,Item_18_MILK,6.55,5.00,$32.75,CreditCard,In-store,06/09/2024,UNKNOWN
+TXN_4243672,CUST_10,David Smith,Beverages,Item_15_BEV,5.89,10.00,$58.90,Digital Wallet,Online,15/04/2024,FALSE
+TXN_3331453,CUST_11,Angela Calderon,Food,Item_0_MISC,8.81,7.00,$61.67,CreditCard,In-store,08/03/2024,FALSE
+TXN_6474879,CUST_30,Laura Gilbert,Food,Item_0_MISC,32.83,8.00,$262.64,CreditCard,In-store,28/05/2025,TRUE
+TXN_2915399,CUST_35,Vincent Murray,Milk Products,Item_17_MILK,7.38,8.00,$59.04,Credit Card,In-store,20/05/2023,UNKNOWN
+TXN_4377012,CUST_19,Chad Jimenez,Patisserie,Item_10_PAT,5.11,10.00,$51.10,Credit Card,In-store,20/12/2023,FALSE
+TXN_5856303,CUST_04,Deanna Becker,Butchers,Item_13_BUT,19.52,3.00,$58.56,Digital Wallet,In-store,14/01/2026,UNKNOWN
+TXN_6251366,CUST_38,Cynthia Garcia,Patisserie,Item_0_MISC,21.19,1.00,$21.19,Cash,Online,17/09/2024,FALSE
+TXN_9084678,CUST_05,Ashley Foster,Furniture,Item_17_FUR,13.85,1.00,$13.85,Digital Wallet,In-store,17/08/2025,UNKNOWN
+TXN_8160766,CUST_42,Jon Nielsen,Beverages,Item_15_BEV,20.77,1.00,$20.77,Cash,Online,01/05/2024,TRUE
+TXN_2288919,CUST_27,Aaron Alvarez,Milk Products,Item_17_MILK,24.18,9.00,$217.62,Credit Card,Online,10/05/2023,TRUE
+TXN_9147795,CUST_47,Dean Ruiz,Milk Products,Item_0_MISC,17.38,4.00,$69.52,Cash,Online,27/10/2025,UNKNOWN
+TXN_8344486,CUST_22,Joshua Wells,Milk Products,Item_0_MISC,18.20,2.00,$36.40,CreditCard,In-store,17/02/2026,UNKNOWN
+TXN_4489137,CUST_03,Suzanne Roy,Food,Item_2_FOOD,23.63,5.00,$118.15,Digital Wallet,In-store,25/03/2024,UNKNOWN
+TXN_4610395,CUST_41,Nicole Barron,Milk Products,Item_17_MILK,31.29,5.00,$156.45,Cash,Online,31/12/2024,UNKNOWN
+TXN_2921532,CUST_12,Susan Cervantes,Furniture,UNKNOWN,9.73,8.00,$77.84,Digital Wallet,In-store,16/09/2025,TRUE
+TXN_9064405,CUST_18,Thomas Williams,Patisserie,Item_10_PAT,26.43,4.00,$105.72,Cash,Online,22/01/2025,UNKNOWN
+TXN_1888272,CUST_42,Christy Frank,Furniture,Item_16_FUR,10.04,1.00,$10.04,Credit Card,In-store,09/06/2025,TRUE
+TXN_8811863,CUST_48,Denise Reyes,Patisserie,Item_10_PAT,13.86,4.00,$55.44,CreditCard,Online,07/07/2023,TRUE
+TXN_6815304,CUST_17,Tanya Melton,Beverages,Item_15_BEV,29.77,3.00,$89.31,Digital Wallet,Online,26/04/2024,TRUE
+TXN_3457118,CUST_37,Justin Rivera,Patisserie,Item_0_MISC,25.24,5.00,$126.20,CreditCard,Online,26/12/2025,UNKNOWN
+TXN_6159940,CUST_48,Dakota Scott,Food,Item_2_FOOD,21.06,3.00,$63.18,CreditCard,In-store,12/08/2023,FALSE
+TXN_2532852,CUST_02,Amber Mason,Furniture,Item_16_FUR,22.95,7.00,$160.65,Cash,Online,27/07/2025,UNKNOWN
+TXN_5677085,CUST_39,Danielle Mcgrath,Milk Products,Item_0_MISC,32.64,1.00,$32.64,Cash,Online,08/10/2024,TRUE
+TXN_3370167,CUST_33,Jason Werner,Patisserie,Item_11_PAT,27.12,7.00,$189.84,Credit Card,In-store,26/01/2024,FALSE
+TXN_3541721,CUST_46,Melanie Kelley,Milk Products,Item_0_MISC,5.33,8.00,$42.64,Cash,Online,19/12/2023,UNKNOWN
+TXN_2528490,CUST_40,Carly Murillo,Furniture,Item_16_FUR,31.49,2.00,$62.98,Digital Wallet,In-store,23/03/2023,UNKNOWN
+TXN_1936978,CUST_30,Amy Williams,Beverages,Item_0_MISC,7.02,6.00,$42.12,Cash,In-store,04/12/2025,TRUE
+TXN_3291004,CUST_17,Tasha Townsend,Furniture,Item_16_FUR,31.43,5.00,$157.15,Digital Wallet,Online,19/09/2025,TRUE
+TXN_6789587,CUST_46,Calvin Navarro MD,Patisserie,Item_11_PAT,28.74,7.00,$201.18,Digital Wallet,In-store,13/09/2024,UNKNOWN
+TXN_6887769,CUST_33,Rebekah Thomas,Patisserie,Item_0_MISC,6.85,10.00,$68.50,Cash,In-store,10/02/2026,FALSE
+TXN_4650878,CUST_25,Theresa Hernandez,Beverages,Item_16_BEV,15.27,6.00,$91.62,Cash,Online,03/08/2024,UNKNOWN
+TXN_2309260,CUST_21,Ryan Luna,Milk Products,UNKNOWN,27.21,10.00,$272.10,Credit Card,In-store,17/05/2023,TRUE
+TXN_4262748,CUST_48,Mark Larson,Butchers,Item_13_BUT,8.95,10.00,$89.50,CreditCard,In-store,09/04/2025,UNKNOWN
+TXN_8230787,CUST_06,Daniel Hill,Food,Item_2_FOOD,16.15,4.00,$64.60,Cash,Online,26/07/2025,TRUE
+TXN_1934516,CUST_42,Robert Brown,Food,UNKNOWN,5.49,8.00,$43.92,Credit Card,Online,24/01/2024,FALSE
+TXN_6135330,CUST_25,Susan Long,Food,Item_0_MISC,15.35,2.00,$30.70,Cash,Online,04/02/2025,UNKNOWN
+TXN_8553551,CUST_11,Eduardo Austin,Milk Products,Item_18_MILK,10.83,4.00,$43.32,CreditCard,Online,10/05/2025,FALSE
+TXN_8051511,CUST_03,Mrs. Tiffany Morris,Food,Item_0_MISC,25.87,7.00,$181.09,Credit Card,In-store,01/05/2025,TRUE
+TXN_4629425,CUST_45,Rachel Mitchell,Patisserie,Item_0_MISC,15.09,8.00,$120.72,Credit Card,Online,08/06/2025,UNKNOWN
+TXN_5056748,CUST_24,Bryan Singh,Food,Item_1_FOOD,6.02,1.00,$6.02,CreditCard,In-store,26/01/2026,FALSE
+TXN_3147280,CUST_45,Richard Rodgers,Beverages,Item_0_MISC,34.50,2.00,$69.00,Digital Wallet,Online,21/10/2025,UNKNOWN
+TXN_5181022,CUST_32,Robert Craig,Milk Products,Item_17_MILK,24.74,9.00,$222.66,CreditCard,In-store,10/11/2025,UNKNOWN
+TXN_3082526,CUST_01,Jillian Cunningham,Milk Products,Item_0_MISC,32.77,8.00,$262.16,CreditCard,Online,25/04/2023,TRUE
+TXN_6779545,CUST_22,Mrs. Julie Matthews,Beverages,Item_15_BEV,7.38,8.00,$59.04,Cash,Online,13/05/2024,UNKNOWN
+TXN_1570849,CUST_15,Kyle Flores,Butchers,Item_13_BUT,8.76,10.00,$87.60,Credit Card,In-store,08/09/2023,FALSE
+TXN_8856519,CUST_43,Mr. Thomas Hernandez,Furniture,UNKNOWN,15.95,1.00,$15.95,CreditCard,In-store,17/03/2026,UNKNOWN
+TXN_4513765,CUST_28,Carolyn Nolan,Patisserie,Item_0_MISC,30.91,8.00,$247.28,CreditCard,In-store,18/05/2023,UNKNOWN
+TXN_7760051,CUST_41,Barry Reynolds,Furniture,Item_16_FUR,34.72,4.00,$138.88,Cash,In-store,27/04/2025,UNKNOWN
+TXN_6857585,CUST_18,Michael Young,Patisserie,Item_10_PAT,19.56,7.00,$136.92,Digital Wallet,Online,08/12/2023,TRUE
+TXN_8430381,CUST_13,Heidi Porter,Patisserie,Item_0_MISC,22.43,7.00,$157.01,Digital Wallet,In-store,06/02/2024,TRUE
+TXN_1306482,CUST_14,Patricia Peterson,Food,UNKNOWN,17.44,1.00,$17.44,Digital Wallet,In-store,03/07/2025,FALSE
+TXN_1525075,CUST_43,Linda Aguirre,Beverages,Item_15_BEV,29.60,2.00,$59.20,Credit Card,Online,23/10/2025,FALSE
+TXN_6414889,CUST_20,David Velasquez,Butchers,Item_13_BUT,19.01,9.00,$171.09,Digital Wallet,In-store,07/07/2025,TRUE
+TXN_6248531,CUST_37,James Anderson,Food,Item_6_FOOD,14.39,6.00,$86.34,Credit Card,Online,25/02/2024,TRUE
+TXN_3764104,CUST_17,Benjamin Foster,Milk Products,Item_0_MISC,9.65,4.00,$38.60,Credit Card,Online,12/06/2024,UNKNOWN
+TXN_1774462,CUST_40,Kimberly Wang,Patisserie,Item_0_MISC,34.88,2.00,$69.76,Cash,Online,29/02/2024,UNKNOWN
+TXN_1869076,CUST_47,Joseph Grant,Beverages,Item_15_BEV,31.69,10.00,$316.90,Digital Wallet,In-store,06/12/2024,TRUE
+TXN_1066846,CUST_02,Joshua Dominguez,Butchers,Item_12_BUT,17.04,10.00,$170.40,Digital Wallet,Online,26/12/2023,UNKNOWN
+TXN_2522402,CUST_16,Kayla Jones,Milk Products,Item_17_MILK,19.14,1.00,$19.14,CreditCard,In-store,26/07/2024,TRUE
+TXN_4078990,CUST_34,Kristen Campbell,Patisserie,Item_0_MISC,11.36,8.00,$90.88,CreditCard,In-store,09/04/2024,TRUE
+TXN_5953063,CUST_25,Chad Romero,Beverages,Item_0_MISC,7.22,6.00,$43.32,Credit Card,In-store,03/10/2024,UNKNOWN
+TXN_4368200,CUST_15,Danielle Hendricks,Milk Products,Item_0_MISC,23.13,7.00,$161.91,Digital Wallet,Online,31/10/2025,TRUE
+TXN_1477404,CUST_17,Amanda Eaton,Patisserie,Item_0_MISC,20.55,6.00,$123.30,Cash,Online,21/10/2023,UNKNOWN
+TXN_4783319,CUST_46,Larry Nguyen,Butchers,Item_13_BUT,14.15,2.00,$28.30,Credit Card,In-store,18/08/2024,TRUE
+TXN_8697159,CUST_10,Billy Deleon,Milk Products,Item_17_MILK,27.03,7.00,$189.21,Cash,In-store,25/06/2024,UNKNOWN
+TXN_1203256,CUST_48,Lisa Porter,Furniture,Item_16_FUR,10.59,1.00,$10.59,Credit Card,Online,26/08/2023,FALSE
+TXN_2351167,CUST_37,Donald Kramer,Milk Products,Item_0_MISC,7.38,10.00,$73.80,Digital Wallet,Online,09/06/2024,TRUE
+TXN_9347563,CUST_13,Mitchell Sparks,Food,Item_0_MISC,6.06,8.00,$48.48,CreditCard,In-store,22/01/2026,FALSE
+TXN_9017904,CUST_13,Kelly White,Milk Products,Item_0_MISC,9.92,7.00,$69.44,Digital Wallet,In-store,30/01/2024,TRUE
+TXN_7765468,CUST_06,Jason Thompson,Patisserie,Item_11_PAT,22.85,3.00,$68.55,CreditCard,In-store,14/01/2025,FALSE
+TXN_1783310,CUST_10,Billy Davis,Patisserie,Item_11_PAT,28.65,8.00,$229.20,Digital Wallet,In-store,08/01/2026,FALSE
+TXN_6890320,CUST_43,Wendy Webster,Milk Products,Item_0_MISC,32.18,4.00,$128.72,Cash,Online,14/04/2024,FALSE
+TXN_6286670,CUST_05,Lisa Dyer,Beverages,Item_16_BEV,34.95,2.00,$69.90,Cash,In-store,29/10/2023,TRUE
+TXN_5139778,CUST_04,Jodi Ramirez,Beverages,Item_0_MISC,26.24,7.00,$183.68,Credit Card,Online,14/03/2024,FALSE
+TXN_6386810,CUST_24,Peter Mcdaniel,Milk Products,Item_17_MILK,9.29,7.00,$65.03,CreditCard,In-store,07/06/2023,FALSE
+TXN_6886568,CUST_16,Deborah Smith,Beverages,Item_0_MISC,30.13,5.00,$150.65,Cash,In-store,23/03/2023,TRUE
+TXN_5529994,CUST_48,Jeff Meyers,Butchers,Item_12_BUT,11.06,3.00,$33.18,CreditCard,Online,29/06/2025,FALSE
+TXN_5368155,CUST_46,Patricia Bishop,Milk Products,Item_0_MISC,5.67,9.00,$51.03,Digital Wallet,In-store,19/03/2026,UNKNOWN
+TXN_5059884,CUST_05,Curtis Wilson,Beverages,Item_15_BEV,32.12,8.00,$256.96,Credit Card,Online,19/05/2025,TRUE
+TXN_5782378,CUST_01,David Johnson,Milk Products,Item_17_MILK,29.09,4.00,$116.36,Credit Card,Online,02/03/2026,TRUE
+TXN_1453408,CUST_35,Victoria Simmons,Butchers,Item_12_BUT,17.86,4.00,$71.44,Digital Wallet,In-store,11/07/2025,UNKNOWN
+TXN_2535887,CUST_25,Rhonda Ellis,Milk Products,Item_17_MILK,8.16,5.00,$40.80,Digital Wallet,Online,19/09/2025,FALSE
+TXN_1259147,CUST_38,Gregory Simmons,Patisserie,Item_0_MISC,7.29,5.00,$36.45,Cash,Online,24/11/2023,UNKNOWN
+TXN_9820661,CUST_06,Mariah Boone,Patisserie,Item_0_MISC,19.92,3.00,$59.76,Credit Card,Online,17/08/2024,TRUE
+TXN_2080045,CUST_13,Veronica Sutton,Milk Products,Item_17_MILK,32.27,8.00,$258.16,Credit Card,Online,21/02/2026,TRUE
+TXN_3938130,CUST_11,Justin Curtis,Patisserie,Item_11_PAT,9.55,10.00,$95.50,Digital Wallet,Online,09/11/2023,FALSE
+TXN_5789147,CUST_09,Carol White,Butchers,Item_13_BUT,11.41,1.00,$11.41,Credit Card,Online,31/12/2023,TRUE
+TXN_3590194,CUST_15,Shawn Woods,Milk Products,Item_18_MILK,22.92,1.00,$22.92,Digital Wallet,In-store,24/11/2025,UNKNOWN
+TXN_1735081,CUST_36,Jason Reid,Furniture,Item_17_FUR,15.97,1.00,$15.97,CreditCard,Online,23/03/2025,UNKNOWN
+TXN_1841434,CUST_18,Lisa Travis,Beverages,Item_15_BEV,27.18,3.00,$81.54,Digital Wallet,In-store,10/07/2024,UNKNOWN
+TXN_8461978,CUST_45,Rebecca Nixon,Furniture,Item_17_FUR,18.86,7.00,$132.02,Cash,In-store,03/11/2025,UNKNOWN
+TXN_6682648,CUST_01,Kyle Olson,Patisserie,Item_11_PAT,7.36,9.00,$66.24,Digital Wallet,In-store,07/02/2025,FALSE
+TXN_4392331,CUST_40,Brenda Shelton,Patisserie,Item_10_PAT,22.88,8.00,$183.04,Credit Card,Online,26/10/2024,TRUE
+TXN_3054807,CUST_14,William Olson,Food,Item_0_MISC,23.17,7.00,$162.19,CreditCard,Online,06/10/2025,TRUE
+TXN_5276566,CUST_09,William Johnson,Beverages,Item_16_BEV,30.27,10.00,$302.70,CreditCard,In-store,26/06/2024,TRUE
+TXN_6259851,CUST_20,Elizabeth Contreras,Food,Item_0_MISC,17.90,5.00,$89.50,Cash,Online,08/04/2024,UNKNOWN
+TXN_1217464,CUST_11,Monica Thomas,Furniture,Item_17_FUR,5.99,9.00,$53.91,Credit Card,In-store,17/12/2023,FALSE
+TXN_7677838,CUST_23,Rachel Jones,Butchers,Item_13_BUT,32.71,3.00,$98.13,Cash,In-store,25/04/2025,UNKNOWN
+TXN_3502479,CUST_07,Jamie Garcia,Milk Products,Item_0_MISC,31.27,1.00,$31.27,Credit Card,Online,02/01/2024,UNKNOWN
+TXN_1898299,CUST_30,Jill Walters,Butchers,Item_12_BUT,33.84,9.00,$304.56,Cash,In-store,21/01/2025,UNKNOWN
+TXN_3159349,CUST_05,Scott Ramirez,Beverages,Item_16_BEV,10.41,8.00,$83.28,Credit Card,Online,21/05/2025,TRUE
+TXN_5193627,CUST_24,Richard Phillips,Milk Products,Item_0_MISC,17.07,2.00,$34.14,Digital Wallet,Online,24/02/2025,TRUE
+TXN_5284882,CUST_29,Joshua Moore,Milk Products,Item_0_MISC,30.99,1.00,$30.99,CreditCard,In-store,15/11/2024,FALSE
+TXN_4718782,CUST_50,Jason Chapman,Beverages,Item_15_BEV,30.01,4.00,$120.04,CreditCard,In-store,01/12/2024,FALSE
+TXN_4787094,CUST_25,Madison Yates,Food,Item_6_FOOD,29.78,6.00,$178.68,CreditCard,Online,22/03/2023,TRUE
+TXN_5861559,CUST_50,Lawrence Miller,Milk Products,Item_0_MISC,26.48,9.00,$238.32,CreditCard,Online,02/01/2024,TRUE
+TXN_8215355,CUST_07,Lindsey Welch,Butchers,Item_12_BUT,18.15,5.00,$90.75,Digital Wallet,In-store,25/02/2025,TRUE
+TXN_8664007,CUST_13,Pamela Harding,Patisserie,Item_11_PAT,6.48,1.00,$6.48,Digital Wallet,Online,16/05/2025,TRUE
+TXN_3346094,CUST_45,Jaime Bowen,Furniture,Item_17_FUR,20.33,2.00,$40.66,Digital Wallet,In-store,10/06/2023,TRUE
+TXN_6539172,CUST_35,Patrick Garza,Food,Item_0_MISC,31.24,2.00,$62.48,Credit Card,In-store,29/10/2023,UNKNOWN
+TXN_9563799,CUST_41,Lori Guzman,Beverages,Item_0_MISC,27.58,7.00,$193.06,Digital Wallet,Online,01/12/2023,UNKNOWN
+TXN_5399305,CUST_48,Philip Francis,Butchers,Item_12_BUT,32.88,7.00,$230.16,Credit Card,In-store,16/05/2024,TRUE
+TXN_7058024,CUST_16,Robert Benitez,Butchers,Item_12_BUT,25.19,3.00,$75.57,CreditCard,Online,22/01/2024,TRUE
+TXN_3700967,CUST_42,Dustin Madden,Butchers,Item_12_BUT,18.91,10.00,$189.10,Digital Wallet,In-store,05/03/2025,TRUE
+TXN_5493645,CUST_06,Brandon Serrano,Butchers,Item_13_BUT,27.70,6.00,$166.20,Digital Wallet,In-store,09/11/2024,UNKNOWN
+TXN_4329872,CUST_37,Walter Rodriguez,Butchers,Item_12_BUT,27.00,10.00,$270.00,Cash,In-store,15/10/2025,FALSE
+TXN_5484802,CUST_48,Jordan Lang,Butchers,Item_12_BUT,10.96,7.00,$76.72,Cash,In-store,20/09/2023,TRUE
+TXN_4680093,CUST_41,Andrew Odom,Butchers,Item_12_BUT,26.56,5.00,$132.80,Cash,Online,25/12/2024,FALSE
+TXN_7389265,CUST_19,Zachary Murphy,Patisserie,Item_11_PAT,32.20,9.00,$289.80,Credit Card,In-store,21/06/2023,FALSE
+TXN_8504473,CUST_21,Luis Smith,Food,Item_0_MISC,5.05,10.00,$50.50,CreditCard,In-store,29/11/2025,UNKNOWN
+TXN_8774343,CUST_39,Albert Miller,Beverages,Item_15_BEV,23.03,9.00,$207.27,Credit Card,Online,05/12/2024,UNKNOWN
+TXN_5799228,CUST_47,Julian Lewis,Food,Item_0_MISC,33.79,8.00,$270.32,Cash,Online,04/10/2024,FALSE
+TXN_7795425,CUST_09,Stephen Owens,Food,UNKNOWN,33.11,4.00,$132.44,Credit Card,Online,22/05/2025,TRUE
+TXN_7138917,CUST_15,Gary Maldonado,Patisserie,Item_0_MISC,12.14,6.00,$72.84,Cash,Online,17/04/2025,FALSE
+TXN_5842974,CUST_15,Amanda Gutierrez,Milk Products,Item_17_MILK,14.52,8.00,$116.16,Digital Wallet,Online,10/04/2024,UNKNOWN
+TXN_3139109,CUST_28,Courtney Booker,Food,UNKNOWN,19.30,3.00,$57.90,Credit Card,In-store,14/05/2025,TRUE
+TXN_4893700,CUST_05,Karen Henderson,Beverages,Item_15_BEV,28.57,2.00,$57.14,Digital Wallet,In-store,11/08/2025,UNKNOWN
+TXN_2755995,CUST_39,Rachel Harris,Food,Item_2_FOOD,11.99,7.00,$83.93,Cash,In-store,20/11/2024,UNKNOWN
+TXN_3080197,CUST_31,Tammy Banks,Milk Products,Item_0_MISC,34.38,2.00,$68.76,CreditCard,In-store,03/11/2024,UNKNOWN
+TXN_2223284,CUST_04,Emily Blake,Patisserie,Item_0_MISC,28.84,4.00,$115.36,Digital Wallet,Online,23/12/2023,TRUE
+TXN_8245099,CUST_15,Eric Foster,Furniture,Item_17_FUR,5.55,5.00,$27.75,Cash,Online,22/05/2024,UNKNOWN
+TXN_1755608,CUST_25,Sydney Flores,Patisserie,Item_10_PAT,32.36,10.00,$323.60,Digital Wallet,Online,05/01/2024,TRUE
+TXN_7288668,CUST_18,Susan Richardson,Furniture,Item_17_FUR,13.93,9.00,$125.37,Cash,Online,19/06/2024,FALSE
+TXN_8314265,CUST_32,Robert Johnson,Furniture,Item_17_FUR,19.62,4.00,$78.48,CreditCard,In-store,18/02/2025,TRUE
+TXN_8276162,CUST_50,Andrew Wilkinson,Butchers,Item_12_BUT,24.40,10.00,$244.00,Credit Card,In-store,07/05/2024,UNKNOWN
+TXN_3385891,CUST_07,Marcus Patton,Patisserie,Item_0_MISC,26.81,3.00,$80.43,Digital Wallet,In-store,10/11/2023,TRUE
+TXN_2354248,CUST_41,Mario Travis,Food,Item_6_FOOD,12.39,1.00,$12.39,Digital Wallet,Online,10/12/2023,FALSE
+TXN_6502719,CUST_02,Barbara Williams,Furniture,Item_17_FUR,24.50,9.00,$220.50,Credit Card,In-store,03/11/2025,UNKNOWN
+TXN_5554460,CUST_48,Nicholas Keller,Food,Item_0_MISC,23.87,9.00,$214.83,Digital Wallet,In-store,10/09/2024,UNKNOWN
+TXN_8526659,CUST_44,Alyssa Young,Furniture,Item_17_FUR,9.09,7.00,$63.63,Digital Wallet,Online,20/01/2024,TRUE
+TXN_1454312,CUST_33,Rebecca Alvarado,Furniture,Item_17_FUR,16.46,7.00,$115.22,Credit Card,Online,14/08/2023,UNKNOWN
+TXN_7063458,CUST_44,Joseph Reynolds,Milk Products,Item_18_MILK,26.55,3.00,$79.65,Digital Wallet,In-store,09/04/2024,UNKNOWN
+TXN_7914227,CUST_15,Blake Petty,Food,Item_0_MISC,25.42,9.00,$228.78,Digital Wallet,Online,15/11/2024,UNKNOWN
+TXN_7154958,CUST_03,Melinda Davis,Furniture,Item_17_FUR,21.66,3.00,$64.98,Credit Card,In-store,08/02/2025,UNKNOWN
+TXN_5252147,CUST_22,Joel Allen,Food,Item_0_MISC,16.75,7.00,$117.25,Digital Wallet,In-store,02/02/2024,UNKNOWN
+TXN_5900772,CUST_47,Scott Jacobson,Milk Products,Item_18_MILK,20.10,6.00,$120.60,Digital Wallet,Online,19/10/2023,TRUE
+TXN_6880023,CUST_25,Dawn Chung,Food,Item_0_MISC,13.76,3.00,$41.28,Cash,In-store,11/10/2024,FALSE
+TXN_1095798,CUST_19,Mr. Timothy Bowman,Milk Products,Item_0_MISC,5.25,4.00,$21.00,Digital Wallet,Online,21/06/2025,FALSE
+TXN_3738213,CUST_26,James Perkins,Butchers,Item_12_BUT,25.23,4.00,$100.92,CreditCard,Online,12/02/2026,UNKNOWN
+TXN_5489624,CUST_17,Sara Cortez,Food,Item_1_FOOD,19.66,6.00,$117.96,CreditCard,In-store,13/02/2024,UNKNOWN
+TXN_6955920,CUST_33,Andres Smith,Butchers,Item_13_BUT,28.77,3.00,$86.31,Digital Wallet,In-store,18/12/2023,UNKNOWN
+TXN_8557205,CUST_18,Tony Lara,Furniture,Item_17_FUR,6.11,8.00,$48.88,Digital Wallet,Online,14/07/2025,FALSE
+TXN_8186410,CUST_06,Allison Oconnor,Butchers,Item_12_BUT,15.41,9.00,$138.69,CreditCard,Online,15/10/2024,FALSE
+TXN_2678813,CUST_19,Michelle Herman,Food,Item_2_FOOD,21.14,3.00,$63.42,Digital Wallet,Online,12/05/2024,UNKNOWN
+TXN_8208486,CUST_07,Morgan Rodriguez,Milk Products,Item_17_MILK,9.70,1.00,$9.70,Cash,In-store,09/06/2025,TRUE
+TXN_5590138,CUST_44,Brittany Lopez,Beverages,Item_0_MISC,15.84,3.00,$47.52,Cash,Online,27/08/2025,TRUE
+TXN_5488571,CUST_48,Hayley Lucas,Patisserie,Item_0_MISC,18.19,5.00,$90.95,Digital Wallet,In-store,21/03/2024,UNKNOWN
+TXN_2147332,CUST_08,David Gill,Milk Products,Item_0_MISC,7.47,8.00,$59.76,Cash,Online,16/07/2025,FALSE
+TXN_6873385,CUST_42,Marc Brown,Butchers,Item_12_BUT,31.46,8.00,$251.68,Digital Wallet,In-store,29/04/2023,TRUE
+TXN_6920522,CUST_46,Mary Jones,Milk Products,Item_17_MILK,16.46,9.00,$148.14,CreditCard,In-store,24/02/2024,UNKNOWN
+TXN_2472974,CUST_45,Timothy Evans,Beverages,Item_0_MISC,8.47,4.00,$33.88,Digital Wallet,In-store,14/08/2023,TRUE
+TXN_4591520,CUST_46,Paula Anderson,Food,Item_2_FOOD,33.93,6.00,$203.58,Cash,In-store,19/05/2025,TRUE
+TXN_2917015,CUST_32,Daryl Rodgers,Patisserie,Item_10_PAT,26.30,2.00,$52.60,Digital Wallet,In-store,15/08/2024,TRUE
+TXN_6212515,CUST_42,Vickie Avila,Beverages,Item_0_MISC,10.76,8.00,$86.08,Cash,In-store,28/09/2024,UNKNOWN
+TXN_2726605,CUST_21,Denise Randall,Beverages,Item_15_BEV,12.73,10.00,$127.30,CreditCard,Online,20/12/2023,TRUE
+TXN_2655129,CUST_27,Jason Wells,Beverages,Item_16_BEV,33.17,2.00,$66.34,CreditCard,Online,12/05/2024,TRUE
+TXN_1872934,CUST_25,Diane Williams,Food,Item_1_FOOD,27.59,2.00,$55.18,Digital Wallet,Online,10/04/2025,TRUE
+TXN_9122468,CUST_02,Ashley Williams,Furniture,Item_16_FUR,9.07,3.00,$27.21,Cash,In-store,09/06/2024,FALSE
+TXN_3525072,CUST_46,Jacqueline Gonzalez,Butchers,Item_13_BUT,19.04,5.00,$95.20,Digital Wallet,In-store,05/05/2023,TRUE
+TXN_6751469,CUST_50,Phillip Savage,Food,Item_1_FOOD,22.52,5.00,$112.60,Digital Wallet,In-store,19/06/2023,UNKNOWN
+TXN_7675408,CUST_36,Audrey Boyer,Beverages,Item_0_MISC,25.06,9.00,$225.54,Credit Card,In-store,28/10/2023,UNKNOWN
+TXN_3276064,CUST_36,Johnny Moore,Patisserie,Item_10_PAT,5.96,5.00,$29.80,CreditCard,Online,11/12/2024,FALSE
+TXN_6148139,CUST_23,Angela Shaw,Food,Item_0_MISC,20.99,6.00,$125.94,Digital Wallet,Online,02/06/2023,FALSE
+TXN_5055846,CUST_26,Leslie Nichols,Patisserie,Item_0_MISC,23.48,5.00,$117.40,Digital Wallet,Online,24/08/2025,UNKNOWN
+TXN_3082652,CUST_42,Michael Henderson,Food,Item_6_FOOD,20.98,1.00,$20.98,Cash,Online,27/06/2024,UNKNOWN
+TXN_9217603,CUST_35,Bryan Montoya,Food,Item_0_MISC,20.72,8.00,$165.76,Digital Wallet,Online,02/12/2025,FALSE
+TXN_5034032,CUST_45,Thomas Mcdonald,Butchers,Item_12_BUT,27.59,3.00,$82.77,Credit Card,Online,02/06/2025,TRUE
+TXN_5763276,CUST_50,Andrew Hernandez,Beverages,UNKNOWN,12.64,2.00,$25.28,Credit Card,Online,08/05/2025,FALSE
+TXN_2620013,CUST_21,Michelle Horne,Food,Item_0_MISC,29.43,10.00,$294.30,Digital Wallet,Online,14/01/2025,TRUE
+TXN_7234038,CUST_10,Mary Wolfe,Beverages,Item_15_BEV,23.23,4.00,$92.92,Credit Card,In-store,17/09/2025,TRUE
+TXN_7753645,CUST_11,Vanessa Garcia,Milk Products,Item_17_MILK,33.80,1.00,$33.80,Digital Wallet,In-store,28/06/2025,TRUE
+TXN_7268634,CUST_10,Colleen Miller,Milk Products,Item_17_MILK,9.42,6.00,$56.52,Digital Wallet,In-store,23/08/2024,TRUE
+TXN_8553263,CUST_06,Desiree Jones,Butchers,Item_12_BUT,22.98,4.00,$91.92,Digital Wallet,Online,02/04/2024,FALSE
+TXN_5793036,CUST_33,Michael Morris,Milk Products,Item_18_MILK,14.44,5.00,$72.20,Digital Wallet,In-store,23/02/2026,FALSE
+TXN_4975354,CUST_35,Dr. Danielle Miller,Patisserie,Item_11_PAT,13.57,4.00,$54.28,Digital Wallet,In-store,29/12/2023,TRUE
+TXN_3170120,CUST_07,Michelle Delacruz,Butchers,UNKNOWN,33.53,10.00,$335.30,Credit Card,In-store,18/08/2024,TRUE
+TXN_7952640,CUST_28,Anthony Mckinney,Beverages,Item_0_MISC,18.26,5.00,$91.30,Cash,In-store,09/07/2023,FALSE
+TXN_2657515,CUST_17,Jeffrey Warren,Patisserie,Item_0_MISC,21.97,9.00,$197.73,Digital Wallet,Online,04/02/2024,FALSE
+TXN_8986210,CUST_50,Olivia Sosa,Patisserie,Item_0_MISC,12.29,6.00,$73.74,Digital Wallet,Online,07/05/2024,UNKNOWN
+TXN_5743507,CUST_41,Kevin Sawyer,Patisserie,Item_11_PAT,27.34,5.00,$136.70,Digital Wallet,Online,05/12/2025,TRUE
+TXN_1618866,CUST_18,Cassidy Gardner,Butchers,Item_12_BUT,19.88,7.00,$139.16,Digital Wallet,In-store,01/02/2025,TRUE
+TXN_1254744,CUST_48,Bruce Cochran,Patisserie,Item_0_MISC,12.25,8.00,$98.00,Digital Wallet,Online,15/09/2025,TRUE
+TXN_4349308,CUST_20,Andrea Dunn,Food,Item_6_FOOD,16.27,9.00,$146.43,CreditCard,Online,13/07/2024,FALSE
+TXN_5658012,CUST_41,Jorge Sims,Beverages,Item_0_MISC,33.56,7.00,$234.92,CreditCard,Online,24/06/2025,TRUE
+TXN_2117810,CUST_15,Brian Wolfe,Milk Products,Item_0_MISC,7.63,2.00,$15.26,Cash,Online,24/01/2025,UNKNOWN
+TXN_9066258,CUST_03,Sara Smith,Furniture,Item_16_FUR,29.99,10.00,$299.90,Digital Wallet,In-store,15/02/2024,UNKNOWN
+TXN_4785053,CUST_02,Rebecca Carson,Patisserie,Item_0_MISC,13.78,9.00,$124.02,Credit Card,Online,13/10/2025,UNKNOWN
+TXN_1912696,CUST_04,Donna Keller,Milk Products,Item_0_MISC,12.50,5.00,$62.50,Digital Wallet,Online,31/08/2025,UNKNOWN
+TXN_4614522,CUST_11,Elizabeth Nguyen,Patisserie,Item_0_MISC,27.30,8.00,$218.40,Digital Wallet,In-store,19/07/2025,FALSE
+TXN_6130927,CUST_04,Cheyenne Gallegos,Food,Item_1_FOOD,34.01,9.00,$306.09,CreditCard,Online,27/08/2024,FALSE
+TXN_3196738,CUST_16,Heather Alexander,Milk Products,Item_0_MISC,16.78,1.00,$16.78,Digital Wallet,Online,19/03/2025,FALSE
+TXN_7571220,CUST_28,Jeffrey Pineda,Patisserie,Item_10_PAT,19.16,8.00,$153.28,CreditCard,In-store,07/11/2023,FALSE
+TXN_9621702,CUST_25,Jamie Henderson,Food,Item_0_MISC,29.41,2.00,$58.82,Digital Wallet,Online,29/12/2024,UNKNOWN
+TXN_5458331,CUST_35,Alexandria Weeks,Patisserie,Item_11_PAT,22.18,2.00,$44.36,Digital Wallet,Online,27/12/2024,UNKNOWN
+TXN_5725104,CUST_33,Christopher Christian,Furniture,Item_16_FUR,20.50,1.00,$20.50,Cash,Online,26/05/2024,UNKNOWN
+TXN_4621580,CUST_29,Erin Foster,Beverages,Item_16_BEV,22.88,3.00,$68.64,Credit Card,Online,27/01/2025,FALSE
+TXN_7965610,CUST_21,Yesenia Lin,Beverages,Item_0_MISC,5.63,8.00,$45.04,Digital Wallet,Online,01/08/2023,FALSE
+TXN_9119623,CUST_32,Zachary Barnett,Beverages,Item_15_BEV,21.09,10.00,$210.90,Credit Card,In-store,09/01/2024,TRUE
+TXN_9597028,CUST_36,Grace Ramsey,Milk Products,Item_17_MILK,16.30,7.00,$114.10,Digital Wallet,In-store,29/06/2023,UNKNOWN
+TXN_3891302,CUST_11,Diane Peterson,Milk Products,Item_18_MILK,14.86,4.00,$59.44,CreditCard,In-store,06/12/2024,FALSE
+TXN_2576882,CUST_25,Michael Mayo,Milk Products,Item_0_MISC,16.23,3.00,$48.69,Cash,Online,08/01/2024,UNKNOWN
+TXN_7406738,CUST_25,Molly Morales,Food,Item_0_MISC,11.51,2.00,$23.02,CreditCard,Online,21/04/2023,TRUE
+TXN_4512114,CUST_36,Brian Vasquez,Food,Item_1_FOOD,19.64,4.00,$78.56,Digital Wallet,In-store,09/12/2025,TRUE
+TXN_2709564,CUST_04,Scott Hanson,Food,Item_2_FOOD,17.00,10.00,$170.00,Cash,Online,15/02/2026,UNKNOWN
+TXN_8955233,CUST_16,Felicia Young,Milk Products,Item_17_MILK,28.66,2.00,$57.32,Digital Wallet,Online,29/08/2023,FALSE
+TXN_5285255,CUST_41,Angela Solomon,Food,Item_0_MISC,12.35,8.00,$98.80,Digital Wallet,In-store,08/04/2023,UNKNOWN
+TXN_3641923,CUST_11,Joseph Vincent,Patisserie,Item_0_MISC,5.88,3.00,$17.64,Digital Wallet,Online,27/09/2023,UNKNOWN
+TXN_1811131,CUST_26,Vickie Beasley,Furniture,Item_17_FUR,10.84,10.00,$108.40,Digital Wallet,In-store,26/08/2024,UNKNOWN
+TXN_8396935,CUST_05,Raymond Gonzalez,Patisserie,Item_0_MISC,13.31,4.00,$53.24,Digital Wallet,In-store,22/03/2025,FALSE
+TXN_1600861,CUST_37,Kelsey Davis,Furniture,Item_16_FUR,24.20,2.00,$48.40,Cash,Online,14/11/2024,UNKNOWN
+TXN_9260898,CUST_06,Lisa Vincent,Patisserie,Item_0_MISC,9.48,3.00,$28.44,Credit Card,Online,20/04/2024,TRUE
+TXN_2070693,CUST_40,Bailey Warner,Butchers,Item_12_BUT,8.13,1.00,$8.13,CreditCard,In-store,09/12/2023,TRUE
+TXN_4537005,CUST_06,Jennifer Carpenter,Beverages,Item_0_MISC,33.51,6.00,$201.06,CreditCard,Online,15/02/2025,TRUE
+TXN_1941162,CUST_17,Renee Arias,Butchers,Item_13_BUT,9.20,8.00,$73.60,CreditCard,Online,24/02/2025,TRUE
+TXN_9663544,CUST_09,Jamie Smith,Milk Products,Item_0_MISC,34.66,2.00,$69.32,Digital Wallet,In-store,23/09/2025,FALSE
+TXN_1226064,CUST_14,Timothy Williams,Furniture,Item_16_FUR,7.05,10.00,$70.50,Digital Wallet,Online,20/02/2026,TRUE
+TXN_5498631,CUST_18,Heidi Anderson,Patisserie,Item_11_PAT,20.51,9.00,$184.59,Cash,In-store,22/06/2025,TRUE
+TXN_9580080,CUST_22,Eric Bauer,Butchers,Item_13_BUT,31.79,8.00,$254.32,CreditCard,In-store,20/06/2023,UNKNOWN
+TXN_3695916,CUST_37,Kayla Miller,Food,Item_1_FOOD,28.13,2.00,$56.26,Digital Wallet,Online,19/11/2023,UNKNOWN
+TXN_2570430,CUST_11,Adrienne Combs,Milk Products,Item_18_MILK,23.60,1.00,$23.60,Digital Wallet,Online,26/11/2024,TRUE
+TXN_5764503,CUST_06,Brittany Mcdonald,Furniture,Item_17_FUR,20.24,8.00,$161.92,Digital Wallet,Online,25/05/2024,FALSE
+TXN_6738265,CUST_46,Tara Estrada,Patisserie,Item_0_MISC,15.50,10.00,$155.00,CreditCard,In-store,10/05/2024,TRUE
+TXN_6962638,CUST_30,Heather Moreno,Patisserie,Item_11_PAT,31.83,7.00,$222.81,CreditCard,Online,08/04/2025,UNKNOWN
+TXN_1025926,CUST_32,Mrs. Margaret Lopez,Patisserie,Item_10_PAT,20.98,6.00,$125.88,Credit Card,In-store,21/12/2024,FALSE
+TXN_7865514,CUST_33,Jessica Leblanc,Food,Item_1_FOOD,23.67,1.00,$23.67,Credit Card,In-store,03/09/2023,FALSE
+TXN_9048434,CUST_13,Aaron Burgess,Butchers,UNKNOWN,12.66,8.00,$101.28,Digital Wallet,Online,21/01/2025,UNKNOWN
+TXN_8312771,CUST_44,Kimberly Lane,Food,UNKNOWN,19.87,2.00,$39.74,Credit Card,Online,06/10/2025,TRUE
+TXN_9014281,CUST_44,Anthony Buck,Butchers,Item_13_BUT,27.13,2.00,$54.26,CreditCard,Online,18/08/2024,UNKNOWN
+TXN_4670914,CUST_21,Chase Bowers,Food,Item_0_MISC,25.62,2.00,$51.24,CreditCard,Online,23/03/2024,FALSE
+TXN_4808758,CUST_04,Johnny Diaz,Beverages,Item_0_MISC,16.92,8.00,$135.36,Digital Wallet,Online,05/12/2023,TRUE
+TXN_9720231,CUST_15,Connie Davis,Patisserie,Item_0_MISC,32.45,3.00,$97.35,Credit Card,In-store,22/12/2024,UNKNOWN
+TXN_1587052,CUST_48,Sarah Lopez,Beverages,Item_16_BEV,32.72,8.00,$261.76,Digital Wallet,Online,17/07/2023,UNKNOWN
+TXN_6630820,CUST_40,Lauren Kirby,Beverages,Item_0_MISC,24.66,6.00,$147.96,Digital Wallet,Online,25/05/2025,TRUE
+TXN_5778518,CUST_18,Kimberly Johnson,Food,Item_0_MISC,34.50,4.00,$138.00,Digital Wallet,Online,25/12/2023,TRUE
+TXN_3797546,CUST_36,Patty Smith,Furniture,Item_17_FUR,34.87,1.00,$34.87,Credit Card,Online,15/03/2024,UNKNOWN
+TXN_7010127,CUST_48,Christopher Burns,Beverages,Item_16_BEV,18.20,8.00,$145.60,Digital Wallet,In-store,01/10/2025,FALSE
+TXN_6825965,CUST_41,Cameron Quinn,Patisserie,Item_11_PAT,30.08,7.00,$210.56,Credit Card,Online,14/09/2024,UNKNOWN
+TXN_5136668,CUST_16,Sheri Baldwin,Milk Products,Item_0_MISC,14.50,3.00,$43.50,Digital Wallet,In-store,27/03/2025,UNKNOWN
+TXN_5696527,CUST_06,Erica Owens,Beverages,Item_15_BEV,15.68,7.00,$109.76,Digital Wallet,In-store,31/03/2023,UNKNOWN
+TXN_3715875,CUST_40,Mrs. Jessica Ramirez,Patisserie,Item_11_PAT,17.22,10.00,$172.20,Credit Card,In-store,03/05/2023,UNKNOWN
+TXN_7614366,CUST_49,Carrie Mendoza,Food,Item_0_MISC,31.20,6.00,$187.20,Digital Wallet,In-store,16/10/2024,FALSE
+TXN_8982381,CUST_04,Michael Vargas,Milk Products,Item_0_MISC,19.62,4.00,$78.48,Cash,Online,04/03/2024,UNKNOWN
+TXN_3626236,CUST_18,Ryan Gonzales,Milk Products,Item_18_MILK,16.07,8.00,$128.56,Digital Wallet,Online,04/10/2023,FALSE
+TXN_2124766,CUST_37,Jacob Little,Butchers,Item_13_BUT,11.86,6.00,$71.16,Digital Wallet,In-store,05/07/2025,FALSE
+TXN_5651317,CUST_32,Amy Obrien,Food,Item_0_MISC,20.88,3.00,$62.64,Credit Card,In-store,16/07/2025,UNKNOWN
+TXN_4376374,CUST_48,Heather Williams,Furniture,Item_16_FUR,7.05,2.00,$14.10,Credit Card,In-store,22/07/2025,UNKNOWN
+TXN_3141580,CUST_28,Andrew Mejia,Milk Products,Item_0_MISC,29.20,6.00,$175.20,Credit Card,In-store,08/02/2024,UNKNOWN
+TXN_4239568,CUST_37,William Ellis,Food,Item_1_FOOD,9.15,10.00,$91.50,Credit Card,In-store,17/01/2026,TRUE
+TXN_8699116,CUST_16,Ricky Blanchard,Food,Item_6_FOOD,20.33,1.00,$20.33,Cash,In-store,10/12/2025,UNKNOWN
+TXN_7368219,CUST_34,Cindy Hicks,Food,Item_0_MISC,21.96,4.00,$87.84,Digital Wallet,In-store,04/09/2025,FALSE
+TXN_1524364,CUST_20,Kevin Clark,Patisserie,Item_0_MISC,15.27,3.00,$45.81,CreditCard,Online,21/02/2026,UNKNOWN
+TXN_8689496,CUST_22,Marie Elliott,Food,Item_0_MISC,8.86,7.00,$62.02,Digital Wallet,In-store,12/01/2026,UNKNOWN
+TXN_5980008,CUST_34,Lisa Freeman,Food,Item_6_FOOD,9.07,5.00,$45.35,Cash,In-store,22/09/2024,UNKNOWN
+TXN_6516042,CUST_35,Elizabeth Castillo,Butchers,Item_13_BUT,21.06,10.00,$210.60,Digital Wallet,In-store,19/09/2024,UNKNOWN
+TXN_3997143,CUST_06,Natasha Ford,Patisserie,Item_0_MISC,6.24,8.00,$49.92,Digital Wallet,Online,15/06/2025,UNKNOWN
+TXN_6107788,CUST_07,Stephen Conway,Patisserie,Item_0_MISC,27.74,9.00,$249.66,Cash,Online,09/11/2023,FALSE
+TXN_7758690,CUST_45,Lauren Reese,Milk Products,Item_17_MILK,12.30,4.00,$49.20,Cash,Online,22/11/2024,TRUE
+TXN_5399440,CUST_23,Kimberly Jackson,Beverages,Item_0_MISC,32.98,10.00,$329.80,Digital Wallet,Online,12/02/2026,FALSE
+TXN_6963028,CUST_24,Alyssa Gibson,Beverages,Item_15_BEV,11.75,4.00,$47.00,Cash,In-store,28/06/2024,TRUE
+TXN_3579864,CUST_29,Randy Wagner,Food,Item_6_FOOD,34.72,5.00,$173.60,Cash,In-store,20/06/2025,TRUE
+TXN_5088411,CUST_04,Julie Williams,Butchers,Item_12_BUT,10.24,3.00,$30.72,CreditCard,In-store,27/07/2024,UNKNOWN
+TXN_5221108,CUST_05,Ronald Johnson,Furniture,Item_16_FUR,9.62,10.00,$96.20,Digital Wallet,In-store,01/10/2024,TRUE
+TXN_3255568,CUST_21,James Lee,Patisserie,Item_0_MISC,5.47,4.00,$21.88,Digital Wallet,In-store,08/12/2023,TRUE
+TXN_8804966,CUST_34,Katrina Bradley,Food,Item_0_MISC,33.07,10.00,$330.70,Digital Wallet,Online,10/03/2024,UNKNOWN
+TXN_5279684,CUST_12,Teresa Barber,Butchers,Item_12_BUT,26.85,9.00,$241.65,CreditCard,Online,24/03/2024,FALSE
+TXN_5869475,CUST_13,Colin Duarte,Milk Products,Item_0_MISC,23.74,3.00,$71.22,Cash,In-store,22/10/2023,UNKNOWN
+TXN_7215188,CUST_14,Mrs. Robin Marsh,Beverages,Item_16_BEV,28.49,4.00,$113.96,Credit Card,Online,13/04/2023,TRUE
+TXN_4013167,CUST_14,Charlotte Lee,Patisserie,Item_11_PAT,14.78,4.00,$59.12,Digital Wallet,In-store,25/04/2024,FALSE
+TXN_8112625,CUST_11,Melissa Murphy,Furniture,Item_16_FUR,24.12,1.00,$24.12,Credit Card,In-store,09/02/2025,FALSE
+TXN_1573111,CUST_32,Keith Dean,Food,Item_6_FOOD,12.64,7.00,$88.48,CreditCard,In-store,18/07/2024,UNKNOWN
+TXN_3793555,CUST_48,Adam Schmitt,Food,Item_0_MISC,25.94,10.00,$259.40,Digital Wallet,In-store,25/01/2026,TRUE
+TXN_5741444,CUST_03,Rebecca Blanchard,Patisserie,Item_0_MISC,27.26,6.00,$163.56,Digital Wallet,Online,22/06/2025,FALSE
+TXN_7252002,CUST_19,Barbara Daniels,Beverages,Item_16_BEV,18.59,2.00,$37.18,Cash,In-store,24/10/2025,TRUE
+TXN_5956458,CUST_05,Kimberly Phelps,Food,Item_0_MISC,30.13,7.00,$210.91,Digital Wallet,In-store,27/12/2024,TRUE
+TXN_4254764,CUST_42,Katie Dean,Milk Products,Item_17_MILK,18.04,7.00,$126.28,Digital Wallet,Online,25/01/2024,UNKNOWN
+TXN_6031033,CUST_40,Robert Miller,Patisserie,Item_11_PAT,16.58,6.00,$99.48,CreditCard,In-store,13/03/2026,UNKNOWN
+TXN_5699626,CUST_48,Steven Owen,Beverages,Item_16_BEV,13.61,7.00,$95.27,Credit Card,In-store,08/11/2025,UNKNOWN
+TXN_4113363,CUST_01,Brandy Peck,Milk Products,Item_0_MISC,31.92,5.00,$159.60,Digital Wallet,Online,02/04/2024,TRUE
+TXN_6281836,CUST_07,Ryan Lee,Milk Products,Item_17_MILK,8.12,8.00,$64.96,Digital Wallet,Online,30/04/2024,UNKNOWN
+TXN_7144064,CUST_22,Madison Norton,Milk Products,Item_0_MISC,13.89,7.00,$97.23,CreditCard,In-store,16/10/2024,UNKNOWN
+TXN_6095283,CUST_20,Christina Howard,Furniture,Item_17_FUR,23.61,10.00,$236.10,CreditCard,In-store,03/03/2026,FALSE
+TXN_6612041,CUST_02,Ryan Ross,Patisserie,Item_11_PAT,29.07,7.00,$203.49,Credit Card,In-store,01/06/2024,TRUE
+TXN_5596311,CUST_43,Melissa Ashley,Food,Item_6_FOOD,11.16,9.00,$100.44,Digital Wallet,Online,08/08/2023,FALSE
+TXN_4714642,CUST_13,Tracy Harrell,Furniture,Item_16_FUR,21.51,5.00,$107.55,Digital Wallet,Online,01/07/2023,TRUE
+TXN_1990774,CUST_01,Rachel Munoz,Milk Products,Item_0_MISC,21.78,6.00,$130.68,CreditCard,In-store,10/11/2023,TRUE
+TXN_8235595,CUST_01,Samantha Miller,Food,Item_0_MISC,13.84,10.00,$138.40,Credit Card,In-store,26/10/2023,UNKNOWN
+TXN_6427850,CUST_38,Robin Velazquez,Patisserie,Item_11_PAT,9.18,8.00,$73.44,Digital Wallet,Online,05/05/2023,FALSE
+TXN_1633603,CUST_34,Richard Flores,Milk Products,Item_0_MISC,22.47,3.00,$67.41,Digital Wallet,Online,30/05/2025,TRUE
+TXN_6739322,CUST_25,Daisy Johnson,Milk Products,Item_0_MISC,33.86,1.00,$33.86,Digital Wallet,In-store,11/08/2023,FALSE
+TXN_4016073,CUST_10,John Parsons,Milk Products,Item_17_MILK,6.31,10.00,$63.10,Cash,Online,21/10/2023,TRUE
+TXN_5990637,CUST_08,Dr. Lisa Burke DDS,Beverages,Item_0_MISC,21.30,5.00,$106.50,Cash,In-store,11/08/2024,UNKNOWN
+TXN_1985168,CUST_19,April Evans,Patisserie,Item_0_MISC,22.99,1.00,$22.99,Digital Wallet,Online,16/12/2023,FALSE
+TXN_1100746,CUST_48,Nicholas Riley MD,Milk Products,Item_0_MISC,14.83,5.00,$74.15,Digital Wallet,Online,07/11/2023,TRUE
+TXN_7407385,CUST_49,Robert Oconnor,Food,Item_0_MISC,5.92,9.00,$53.28,CreditCard,In-store,09/08/2025,UNKNOWN
+TXN_4276814,CUST_32,Samantha Hale,Milk Products,Item_17_MILK,30.27,1.00,$30.27,Digital Wallet,Online,04/07/2023,FALSE
+TXN_4857032,CUST_15,Anthony Thompson,Food,Item_0_MISC,11.28,5.00,$56.40,Cash,Online,09/03/2025,FALSE
+TXN_1584566,CUST_06,Adrienne Robinson,Food,Item_6_FOOD,5.20,5.00,$26.00,Credit Card,In-store,01/10/2024,TRUE
+TXN_1753831,CUST_38,Donna Miller,Patisserie,Item_11_PAT,18.27,3.00,$54.81,CreditCard,In-store,28/06/2024,FALSE
+TXN_8902083,CUST_01,Scott Hill,Patisserie,Item_11_PAT,24.95,6.00,$149.70,Digital Wallet,In-store,20/09/2025,UNKNOWN
+TXN_4957220,CUST_40,Susan Jimenez,Food,Item_6_FOOD,32.03,6.00,$192.18,Digital Wallet,Online,16/06/2023,FALSE
+TXN_7502495,CUST_44,Jared Schultz,Milk Products,Item_17_MILK,20.20,3.00,$60.60,Digital Wallet,In-store,23/05/2024,UNKNOWN
+TXN_7211862,CUST_10,Nicholas Thomas,Butchers,Item_13_BUT,26.44,10.00,$264.40,CreditCard,Online,10/08/2025,UNKNOWN
+TXN_4931303,CUST_08,Ronald Martinez,Beverages,Item_0_MISC,19.79,3.00,$59.37,Digital Wallet,Online,27/11/2024,UNKNOWN
+TXN_8183772,CUST_42,David Blackwell,Patisserie,Item_11_PAT,11.17,3.00,$33.51,Credit Card,In-store,26/05/2023,UNKNOWN
+TXN_9619850,CUST_16,Drew Kelley,Milk Products,Item_18_MILK,22.19,1.00,$22.19,Digital Wallet,Online,09/10/2025,FALSE
+TXN_3166356,CUST_38,Eric Ware,Butchers,Item_13_BUT,32.88,8.00,$263.04,Credit Card,In-store,02/10/2025,TRUE
+TXN_5651499,CUST_39,Joseph Johnson,Beverages,Item_0_MISC,25.96,5.00,$129.80,CreditCard,In-store,30/12/2025,UNKNOWN
+TXN_8806707,CUST_41,Adriana Andrews,Patisserie,Item_10_PAT,26.63,9.00,$239.67,CreditCard,In-store,31/01/2025,UNKNOWN
+TXN_2929754,CUST_33,Ashley Williams,Patisserie,Item_11_PAT,24.87,5.00,$124.35,Cash,Online,14/06/2025,UNKNOWN
+TXN_1076204,CUST_11,Rodney Smith,Patisserie,Item_0_MISC,17.48,8.00,$139.84,Digital Wallet,In-store,02/07/2025,TRUE
+TXN_9461632,CUST_20,Stacy Summers,Beverages,Item_16_BEV,27.05,5.00,$135.25,Cash,In-store,13/10/2024,FALSE
+TXN_7850350,CUST_29,Heidi Franklin,Beverages,Item_0_MISC,34.56,4.00,$138.24,Digital Wallet,In-store,05/10/2025,UNKNOWN
+TXN_9999077,CUST_37,Andrew Scott,Beverages,Item_15_BEV,34.80,9.00,$313.20,Credit Card,In-store,06/04/2025,FALSE
+TXN_5550848,CUST_27,Nicole Fernandez,Food,Item_0_MISC,19.00,9.00,$171.00,Digital Wallet,Online,04/02/2025,TRUE
+TXN_4349298,CUST_49,Darren Duncan,Butchers,Item_13_BUT,27.93,7.00,$195.51,CreditCard,In-store,10/07/2025,TRUE
+TXN_1749228,CUST_20,Jeremiah Simmons,Milk Products,Item_0_MISC,14.70,10.00,$147.00,Digital Wallet,In-store,28/10/2023,TRUE
+TXN_7032405,CUST_18,Colleen Berry,Furniture,Item_16_FUR,19.91,3.00,$59.73,Digital Wallet,Online,24/09/2024,FALSE
+TXN_8246355,CUST_33,Kimberly Murphy,Food,Item_0_MISC,6.47,6.00,$38.82,Digital Wallet,Online,28/04/2025,FALSE
+TXN_6089451,CUST_35,William Brooks,Patisserie,Item_0_MISC,11.42,9.00,$102.78,Digital Wallet,Online,27/02/2026,UNKNOWN
+TXN_6942575,CUST_19,Frederick Henderson,Butchers,Item_13_BUT,20.23,4.00,$80.92,CreditCard,In-store,30/10/2024,TRUE
+TXN_7202647,CUST_14,Maurice Hughes,Butchers,Item_12_BUT,8.10,3.00,$24.30,Digital Wallet,In-store,04/07/2025,UNKNOWN
+TXN_2827129,CUST_41,Sheri Douglas,Milk Products,Item_18_MILK,27.09,5.00,$135.45,Credit Card,Online,09/03/2025,TRUE
+TXN_4027120,CUST_16,Jordan Ellis,Butchers,Item_12_BUT,17.45,2.00,$34.90,Cash,In-store,27/09/2023,TRUE
+TXN_5611138,CUST_05,Carol Walker,Furniture,Item_17_FUR,19.64,1.00,$19.64,Digital Wallet,Online,30/05/2023,FALSE
+TXN_4879270,CUST_06,Dr. Kathy Rivera MD,Beverages,Item_15_BEV,33.37,5.00,$166.85,Credit Card,In-store,18/08/2023,TRUE
+TXN_1524446,CUST_17,Susan Howell,Furniture,Item_17_FUR,22.09,4.00,$88.36,Credit Card,In-store,26/06/2024,FALSE
+TXN_9973303,CUST_21,Monica Meyer,Patisserie,Item_11_PAT,10.80,7.00,$75.60,Credit Card,In-store,10/11/2024,UNKNOWN
+TXN_3252613,CUST_23,Allison Haynes,Furniture,Item_17_FUR,24.29,6.00,$145.74,Credit Card,Online,09/06/2024,FALSE
+TXN_7536474,CUST_24,Paul Hill,Beverages,Item_16_BEV,23.76,9.00,$213.84,Cash,In-store,13/01/2025,UNKNOWN
+TXN_9471770,CUST_13,Logan Carter,Furniture,Item_17_FUR,17.45,2.00,$34.90,CreditCard,In-store,31/01/2025,TRUE
+TXN_7493337,CUST_26,Victoria Floyd,Butchers,Item_13_BUT,26.07,5.00,$130.35,Cash,Online,19/04/2024,UNKNOWN
+TXN_8065725,CUST_35,Elizabeth Jones,Food,Item_0_MISC,9.86,7.00,$69.02,Digital Wallet,In-store,31/07/2024,TRUE
+TXN_2872664,CUST_36,Dr. Joshua Figueroa,Milk Products,Item_18_MILK,18.03,1.00,$18.03,Digital Wallet,Online,04/12/2025,FALSE
+TXN_4121939,CUST_11,Margaret Ramos,Beverages,Item_16_BEV,20.07,1.00,$20.07,Credit Card,Online,03/10/2024,UNKNOWN
+TXN_2665955,CUST_41,Isaac Garcia,Patisserie,Item_0_MISC,25.39,8.00,$203.12,Credit Card,Online,22/09/2024,TRUE
+TXN_4123532,CUST_08,Jose Phillips,Patisserie,Item_11_PAT,29.48,8.00,$235.84,Digital Wallet,Online,30/01/2026,FALSE
+TXN_3396401,CUST_28,Phyllis Jones,Furniture,Item_16_FUR,24.88,5.00,$124.40,Cash,Online,22/05/2023,FALSE
+TXN_1300110,CUST_32,Susan Poole,Beverages,Item_0_MISC,31.16,2.00,$62.32,CreditCard,Online,26/09/2025,FALSE
+TXN_9727767,CUST_31,Jennifer Brown DVM,Patisserie,Item_0_MISC,24.24,8.00,$193.92,CreditCard,In-store,05/02/2026,TRUE
+TXN_5152977,CUST_31,Sue Morris,Butchers,Item_12_BUT,10.13,6.00,$60.78,CreditCard,In-store,28/11/2023,FALSE
+TXN_3481330,CUST_15,Miss Wanda Campbell,Patisserie,Item_10_PAT,7.63,1.00,$7.63,CreditCard,Online,03/07/2025,TRUE
+TXN_6381434,CUST_02,Miranda Allen,Food,Item_0_MISC,7.17,5.00,$35.85,Digital Wallet,Online,14/09/2024,FALSE
+TXN_5246617,CUST_44,Andrew Mann,Butchers,Item_13_BUT,23.04,8.00,$184.32,Credit Card,In-store,09/02/2024,UNKNOWN
+TXN_1141226,CUST_34,Lisa Garcia,Beverages,Item_16_BEV,17.02,9.00,$153.18,Digital Wallet,In-store,16/03/2024,FALSE
+TXN_6338743,CUST_17,Anthony Donovan,Beverages,Item_16_BEV,25.00,1.00,$25.00,Cash,Online,30/11/2025,UNKNOWN
+TXN_7534303,CUST_02,Carol Mcclain,Beverages,Item_15_BEV,15.39,10.00,$153.90,Credit Card,In-store,24/12/2025,UNKNOWN
+TXN_8007631,CUST_29,Jessica Giles,Food,Item_0_MISC,11.92,9.00,$107.28,Credit Card,In-store,26/07/2023,FALSE
+TXN_5623663,CUST_09,Karen Woodard,Butchers,Item_12_BUT,7.50,5.00,$37.50,Digital Wallet,In-store,27/07/2023,FALSE
+TXN_1578720,CUST_24,Linda Nelson,Butchers,Item_13_BUT,34.62,6.00,$207.72,Credit Card,In-store,16/04/2023,TRUE
+TXN_3042892,CUST_43,John Pope PhD,Butchers,Item_12_BUT,9.47,6.00,$56.82,Digital Wallet,In-store,31/07/2025,TRUE
+TXN_7184189,CUST_39,Margaret Alvarez,Beverages,Item_0_MISC,7.48,2.00,$14.96,Digital Wallet,Online,04/09/2025,FALSE
+TXN_4498778,CUST_28,Pamela Mills,Beverages,Item_16_BEV,20.02,7.00,$140.14,CreditCard,Online,07/08/2024,TRUE
+TXN_3808358,CUST_11,Lori Palmer,Food,Item_1_FOOD,20.53,4.00,$82.12,CreditCard,In-store,25/05/2024,FALSE
+TXN_3553435,CUST_26,Jamie Kim,Patisserie,Item_10_PAT,29.81,3.00,$89.43,Digital Wallet,Online,11/01/2024,TRUE
+TXN_3799836,CUST_15,Martin Brown,Furniture,UNKNOWN,8.65,2.00,$17.30,Credit Card,Online,13/05/2025,FALSE
+TXN_6318889,CUST_42,Sarah Miranda,Food,Item_0_MISC,30.67,7.00,$214.69,Digital Wallet,Online,07/05/2023,FALSE
+TXN_5529185,CUST_26,Tanya Cline,Milk Products,Item_0_MISC,31.96,5.00,$159.80,Digital Wallet,Online,03/02/2026,FALSE
+TXN_5127787,CUST_03,Beth Miranda,Patisserie,Item_10_PAT,33.22,3.00,$99.66,Credit Card,In-store,01/10/2024,TRUE
+TXN_4659799,CUST_28,Christina Long,Milk Products,Item_18_MILK,26.01,10.00,$260.10,Digital Wallet,In-store,08/11/2023,UNKNOWN
+TXN_3071932,CUST_39,Eric Perez,Beverages,Item_15_BEV,5.99,2.00,$11.98,Digital Wallet,Online,02/02/2025,FALSE
+TXN_9813097,CUST_34,Veronica Miller,Food,Item_0_MISC,5.39,5.00,$26.95,Digital Wallet,Online,11/03/2024,UNKNOWN
+TXN_1842872,CUST_17,Donald Miller DDS,Butchers,Item_12_BUT,31.51,4.00,$126.04,Digital Wallet,In-store,11/06/2025,TRUE
+TXN_2203593,CUST_29,Melinda Harper,Furniture,Item_16_FUR,21.84,4.00,$87.36,Digital Wallet,In-store,03/10/2023,UNKNOWN
+TXN_5597002,CUST_45,Brandon Walker,Patisserie,Item_0_MISC,25.51,3.00,$76.53,Digital Wallet,Online,11/04/2024,TRUE
+TXN_3662352,CUST_04,Julia Sweeney,Food,Item_0_MISC,12.58,8.00,$100.64,CreditCard,Online,27/05/2024,FALSE
+TXN_1226204,CUST_25,Miranda Moran,Milk Products,Item_0_MISC,25.30,9.00,$227.70,Digital Wallet,Online,17/10/2025,FALSE
+TXN_3424134,CUST_28,Amber Jacobs,Patisserie,Item_10_PAT,23.77,2.00,$47.54,Digital Wallet,In-store,01/01/2024,TRUE
+TXN_8641355,CUST_24,Isabel Pham,Furniture,UNKNOWN,14.15,10.00,$141.50,CreditCard,In-store,26/04/2024,UNKNOWN
+TXN_2721066,CUST_41,Kimberly Sanchez,Furniture,Item_16_FUR,19.84,4.00,$79.36,Digital Wallet,In-store,25/01/2025,FALSE
+TXN_6972461,CUST_45,Melanie Curtis,Food,Item_0_MISC,5.79,3.00,$17.37,Digital Wallet,In-store,21/08/2025,TRUE
+TXN_5366070,CUST_38,Jacob Bennett,Food,Item_6_FOOD,6.10,9.00,$54.90,Cash,Online,21/01/2026,UNKNOWN
+TXN_8547515,CUST_07,Julie Jackson,Food,Item_0_MISC,17.70,7.00,$123.90,Digital Wallet,In-store,01/09/2024,FALSE
+TXN_2584006,CUST_18,Cory Pena,Patisserie,Item_10_PAT,32.36,4.00,$129.44,CreditCard,In-store,10/02/2026,UNKNOWN
+TXN_6134450,CUST_28,Barbara Stevens,Food,Item_0_MISC,7.76,5.00,$38.80,CreditCard,In-store,03/05/2024,UNKNOWN
+TXN_7558974,CUST_18,Eric Lynn,Patisserie,Item_0_MISC,25.35,10.00,$253.50,Digital Wallet,Online,28/10/2024,TRUE
+TXN_8693501,CUST_33,Crystal George,Patisserie,Item_11_PAT,34.55,6.00,$207.30,CreditCard,Online,20/05/2025,FALSE
+TXN_5153021,CUST_28,Kristy Whitaker,Beverages,Item_16_BEV,30.86,2.00,$61.72,Digital Wallet,In-store,10/05/2023,FALSE
+TXN_9901781,CUST_47,Sherry Huerta,Patisserie,Item_11_PAT,14.50,1.00,$14.50,Digital Wallet,In-store,20/04/2023,UNKNOWN
+TXN_3762331,CUST_45,Paul Martinez,Patisserie,Item_11_PAT,5.49,1.00,$5.49,Cash,Online,11/12/2024,UNKNOWN
+TXN_9639060,CUST_44,Timothy Smith,Furniture,Item_16_FUR,28.82,5.00,$144.10,Cash,Online,20/08/2023,UNKNOWN
+TXN_4464604,CUST_08,Mary Romero,Patisserie,Item_0_MISC,28.83,10.00,$288.30,Digital Wallet,In-store,11/08/2025,UNKNOWN
+TXN_4150688,CUST_13,Jonathan Butler,Beverages,Item_16_BEV,27.10,9.00,$243.90,Digital Wallet,Online,13/09/2024,TRUE
+TXN_9772077,CUST_14,Kimberly Hughes,Milk Products,Item_17_MILK,12.16,2.00,$24.32,Digital Wallet,In-store,29/01/2024,FALSE
+TXN_4437236,CUST_36,Donna Mata,Food,Item_6_FOOD,8.62,5.00,$43.10,Digital Wallet,In-store,14/04/2023,UNKNOWN
+TXN_4402585,CUST_18,Eric Lambert,Furniture,Item_16_FUR,17.14,2.00,$34.28,Cash,Online,05/11/2025,UNKNOWN
+TXN_8568892,CUST_25,Edward Cole,Beverages,Item_16_BEV,19.53,4.00,$78.12,Credit Card,In-store,17/11/2025,FALSE
+TXN_1174878,CUST_35,Melissa Small,Butchers,Item_13_BUT,31.12,5.00,$155.60,Digital Wallet,In-store,11/07/2024,TRUE
+TXN_4429231,CUST_42,Alicia Martinez,Food,Item_1_FOOD,18.96,6.00,$113.76,Cash,Online,03/04/2024,FALSE
+TXN_6042031,CUST_04,Kelly Smith,Patisserie,Item_10_PAT,14.55,7.00,$101.85,Digital Wallet,Online,12/03/2025,TRUE
+TXN_4662211,CUST_01,Mr. Christopher Joyce,Food,Item_6_FOOD,20.76,5.00,$103.80,Digital Wallet,In-store,10/07/2023,TRUE
+TXN_6133157,CUST_43,Joshua Hall,Food,Item_6_FOOD,17.00,6.00,$102.00,Cash,Online,17/01/2025,TRUE
+TXN_3886208,CUST_08,Mrs. Cheryl Kline MD,Milk Products,Item_0_MISC,27.74,10.00,$277.40,Digital Wallet,Online,10/01/2025,TRUE
+TXN_4889628,CUST_25,Ann Hester,Beverages,Item_15_BEV,8.71,9.00,$78.39,Digital Wallet,In-store,15/02/2026,FALSE
+TXN_7480704,CUST_03,William Garcia,Beverages,Item_15_BEV,23.62,3.00,$70.86,Digital Wallet,In-store,24/02/2024,TRUE
+TXN_8423400,CUST_38,Cynthia Fisher,Furniture,Item_17_FUR,9.27,7.00,$64.89,Digital Wallet,In-store,09/06/2023,TRUE
+TXN_2289336,CUST_10,Kevin Johnson,Patisserie,Item_11_PAT,13.40,4.00,$53.60,Digital Wallet,Online,02/02/2026,TRUE
+TXN_4595448,CUST_30,Douglas Smith,Beverages,Item_15_BEV,6.80,7.00,$47.60,Digital Wallet,Online,26/07/2023,FALSE
+TXN_6817528,CUST_27,Derek Kelly,Furniture,Item_16_FUR,10.42,4.00,$41.68,Digital Wallet,Online,25/03/2025,TRUE
+TXN_6950578,CUST_38,Matthew Carter,Furniture,Item_16_FUR,25.66,5.00,$128.30,Credit Card,Online,20/08/2024,TRUE
+TXN_1062801,CUST_29,Bonnie Curtis,Furniture,Item_16_FUR,9.21,7.00,$64.47,Digital Wallet,In-store,05/11/2023,FALSE
+TXN_4981253,CUST_26,Trevor Kennedy,Furniture,Item_17_FUR,24.08,5.00,$120.40,CreditCard,Online,09/10/2024,UNKNOWN
+TXN_6490931,CUST_12,Deborah Smith,Patisserie,Item_11_PAT,26.36,5.00,$131.80,CreditCard,In-store,11/06/2024,TRUE
+TXN_2291943,CUST_29,Robert Brown,Food,Item_6_FOOD,10.14,6.00,$60.84,Cash,Online,25/08/2024,TRUE
+TXN_8838614,CUST_10,Bobby Castillo,Butchers,Item_12_BUT,17.38,10.00,$173.80,Digital Wallet,Online,16/11/2025,UNKNOWN
+TXN_5976926,CUST_48,Crystal Ballard,Milk Products,Item_18_MILK,33.19,1.00,$33.19,Digital Wallet,Online,10/09/2025,UNKNOWN
+TXN_3147161,CUST_38,Joseph Carroll,Food,Item_2_FOOD,17.86,4.00,$71.44,CreditCard,In-store,02/01/2024,FALSE
+TXN_8397633,CUST_18,Robert Hubbard,Beverages,UNKNOWN,15.67,8.00,$125.36,Cash,Online,14/06/2024,TRUE
+TXN_8126019,CUST_05,Denise Jones,Furniture,Item_17_FUR,9.81,1.00,$9.81,Digital Wallet,In-store,04/02/2026,TRUE
+TXN_4383612,CUST_28,Jane Gray,Furniture,Item_17_FUR,14.40,4.00,$57.60,Credit Card,Online,27/12/2024,UNKNOWN
+TXN_2809526,CUST_18,Jennifer Frank,Beverages,Item_0_MISC,21.33,5.00,$106.65,Cash,Online,23/05/2025,FALSE
+TXN_1595328,CUST_09,Don Patterson,Milk Products,Item_0_MISC,7.59,6.00,$45.54,CreditCard,Online,03/03/2024,FALSE
+TXN_5517711,CUST_10,Nathaniel Lynn,Beverages,Item_0_MISC,30.66,1.00,$30.66,Credit Card,In-store,05/02/2025,UNKNOWN
+TXN_1170125,CUST_21,Nicholas Strickland,Furniture,Item_17_FUR,5.66,5.00,$28.30,CreditCard,Online,08/10/2025,TRUE
+TXN_9578087,CUST_27,Sandy Richard,Patisserie,Item_0_MISC,12.78,8.00,$102.24,Credit Card,In-store,03/09/2024,FALSE
+TXN_5771665,CUST_28,Alexis Ford,Milk Products,Item_0_MISC,19.04,2.00,$38.08,Digital Wallet,In-store,14/07/2023,FALSE
+TXN_1742920,CUST_09,Jennifer Mccoy,Milk Products,Item_0_MISC,16.68,7.00,$116.76,Cash,Online,01/08/2025,UNKNOWN
+TXN_1308357,CUST_04,Hannah Floyd,Beverages,Item_16_BEV,7.70,10.00,$77.00,CreditCard,In-store,08/02/2025,FALSE
+TXN_6860330,CUST_45,Melinda Stevens,Beverages,Item_15_BEV,9.77,3.00,$29.31,Cash,Online,14/07/2025,UNKNOWN
+TXN_1402689,CUST_14,Pamela Gutierrez,Patisserie,Item_11_PAT,23.29,7.00,$163.03,CreditCard,Online,23/11/2023,FALSE
+TXN_9661038,CUST_06,Sarah White,Milk Products,Item_0_MISC,17.71,2.00,$35.42,Credit Card,In-store,13/10/2025,TRUE
+TXN_3683168,CUST_22,Kathryn Gutierrez,Patisserie,Item_11_PAT,28.06,10.00,$280.60,Cash,In-store,10/12/2023,FALSE
+TXN_8055226,CUST_39,Christina Pena,Patisserie,Item_11_PAT,26.99,9.00,$242.91,Credit Card,Online,02/01/2026,UNKNOWN
+TXN_7661125,CUST_05,Ronnie Odom,Food,Item_0_MISC,32.79,4.00,$131.16,Cash,In-store,03/09/2025,FALSE
+TXN_8284466,CUST_26,Robert Cox,Milk Products,Item_0_MISC,9.09,1.00,$9.09,Digital Wallet,In-store,12/08/2023,TRUE
+TXN_1727834,CUST_14,Martin Hughes,Milk Products,Item_0_MISC,31.01,6.00,$186.06,CreditCard,Online,07/04/2025,FALSE
+TXN_6798209,CUST_24,April Knapp,Furniture,Item_17_FUR,34.77,7.00,$243.39,CreditCard,In-store,26/08/2024,TRUE
+TXN_5981269,CUST_13,Danielle Carson,Food,Item_2_FOOD,33.11,6.00,$198.66,Digital Wallet,Online,09/02/2024,FALSE
+TXN_6766426,CUST_31,Patrick Young,Patisserie,Item_11_PAT,34.53,10.00,$345.30,Digital Wallet,In-store,29/05/2024,FALSE
+TXN_6793693,CUST_17,Alex Ware,Food,Item_6_FOOD,22.03,7.00,$154.21,Digital Wallet,In-store,27/02/2026,UNKNOWN
+TXN_3145136,CUST_17,Patricia Thomas,Butchers,UNKNOWN,12.60,8.00,$100.80,Digital Wallet,In-store,09/03/2026,UNKNOWN
+TXN_9579470,CUST_28,Brooke Lee,Furniture,Item_16_FUR,33.38,1.00,$33.38,Cash,In-store,11/04/2024,TRUE
+TXN_4625898,CUST_39,Kenneth Gould,Milk Products,Item_17_MILK,27.71,4.00,$110.84,Credit Card,In-store,23/07/2024,UNKNOWN
+TXN_8306718,CUST_22,Joshua Anderson,Furniture,Item_17_FUR,5.38,1.00,$5.38,Cash,In-store,17/06/2024,TRUE
+TXN_4974422,CUST_28,Rodney Morales,Furniture,Item_16_FUR,7.35,5.00,$36.75,Credit Card,In-store,11/10/2023,UNKNOWN
+TXN_4374706,CUST_11,Mark Trevino,Beverages,Item_0_MISC,15.41,10.00,$154.10,Digital Wallet,In-store,24/08/2025,UNKNOWN
+TXN_4968877,CUST_33,Jessica Wells,Beverages,Item_0_MISC,11.05,3.00,$33.15,Credit Card,Online,21/11/2023,FALSE
+TXN_5296090,CUST_24,Whitney Harris,Food,Item_1_FOOD,16.12,5.00,$80.60,Cash,In-store,06/06/2024,UNKNOWN
+TXN_4000499,CUST_07,Evan Mcgrath,Milk Products,Item_0_MISC,22.91,9.00,$206.19,Credit Card,Online,23/04/2025,FALSE
+TXN_5008703,CUST_50,Brooke Smith,Milk Products,Item_0_MISC,19.10,10.00,$191.00,Digital Wallet,Online,18/02/2025,FALSE
+TXN_2900488,CUST_48,Derek Griffin,Patisserie,Item_11_PAT,9.00,1.00,$9.00,Credit Card,Online,18/04/2023,TRUE
+TXN_3357347,CUST_45,Donald Nelson,Food,Item_2_FOOD,28.43,7.00,$199.01,Digital Wallet,In-store,11/06/2024,TRUE
+TXN_9403891,CUST_13,Jessica Lee,Food,Item_0_MISC,16.64,7.00,$116.48,CreditCard,Online,30/11/2024,TRUE
+TXN_4203663,CUST_21,Nicolas Stein,Beverages,Item_16_BEV,20.83,1.00,$20.83,Credit Card,In-store,06/02/2024,TRUE
+TXN_2645258,CUST_17,Brittany Johnson,Beverages,Item_16_BEV,23.46,9.00,$211.14,Credit Card,Online,09/03/2025,UNKNOWN
+TXN_5560434,CUST_50,Brandi Murphy,Milk Products,Item_17_MILK,20.94,3.00,$62.82,Credit Card,In-store,11/10/2025,FALSE
+TXN_5967618,CUST_34,Carolyn Neal,Furniture,Item_17_FUR,19.80,4.00,$79.20,Credit Card,In-store,25/02/2026,TRUE
+TXN_1529118,CUST_30,Amanda Lawson,Milk Products,Item_0_MISC,25.04,4.00,$100.16,Cash,Online,14/10/2025,UNKNOWN
+TXN_2488649,CUST_40,Jonathan Williams,Butchers,Item_13_BUT,12.75,8.00,$102.00,Cash,Online,06/08/2025,FALSE
+TXN_4088639,CUST_29,Daniel Sanchez,Beverages,Item_0_MISC,24.48,4.00,$97.92,CreditCard,In-store,10/10/2023,FALSE
+TXN_2716089,CUST_15,Erik Peterson,Food,Item_0_MISC,8.93,5.00,$44.65,Digital Wallet,Online,03/02/2024,UNKNOWN
+TXN_4763547,CUST_34,Cheryl Hendricks,Milk Products,Item_18_MILK,28.52,3.00,$85.56,Credit Card,Online,01/03/2025,TRUE
+TXN_7837306,CUST_20,Stacy Anderson,Milk Products,Item_0_MISC,16.15,5.00,$80.75,Cash,In-store,17/02/2026,FALSE
+TXN_4065237,CUST_23,Rachel Mccoy,Milk Products,Item_0_MISC,28.16,5.00,$140.80,Cash,In-store,05/04/2024,FALSE
+TXN_7889587,CUST_17,Brandon Mitchell,Patisserie,UNKNOWN,28.29,5.00,$141.45,Digital Wallet,Online,20/05/2024,TRUE
+TXN_3828185,CUST_33,Rebecca Freeman,Patisserie,Item_10_PAT,5.60,4.00,$22.40,Digital Wallet,Online,14/11/2024,UNKNOWN
+TXN_9328479,CUST_01,Wendy Clarke,Food,Item_1_FOOD,15.07,7.00,$105.49,Credit Card,In-store,18/06/2024,FALSE
+TXN_7549423,CUST_38,Melanie Garrett,Patisserie,Item_10_PAT,11.73,1.00,$11.73,Cash,Online,19/04/2023,TRUE
+TXN_3399907,CUST_08,Miranda Goodwin,Food,Item_6_FOOD,23.59,1.00,$23.59,Credit Card,Online,10/12/2025,TRUE
+TXN_4383264,CUST_44,Chelsea King,Patisserie,Item_10_PAT,31.58,8.00,$252.64,Digital Wallet,In-store,20/12/2023,FALSE
+TXN_7314903,CUST_16,Emily Johnson,Beverages,Item_0_MISC,6.20,7.00,$43.40,Digital Wallet,Online,21/02/2026,TRUE
+TXN_6198706,CUST_46,Christina Cardenas,Furniture,Item_17_FUR,28.66,3.00,$85.98,Credit Card,Online,28/08/2024,FALSE
+TXN_4201510,CUST_46,Michael Rhodes,Food,Item_0_MISC,28.76,7.00,$201.32,Credit Card,In-store,28/07/2024,FALSE
+TXN_2751992,CUST_49,Alexandra Mitchell,Milk Products,Item_17_MILK,21.48,6.00,$128.88,Credit Card,Online,17/12/2025,UNKNOWN
+TXN_1792297,CUST_06,Paul Juarez,Patisserie,Item_0_MISC,7.69,1.00,$7.69,Cash,Online,28/08/2025,FALSE
+TXN_7669045,CUST_22,Alan Walker,Milk Products,Item_17_MILK,29.09,5.00,$145.45,Credit Card,In-store,13/07/2023,FALSE
+TXN_7919402,CUST_27,Jenna Estrada,Food,Item_0_MISC,25.41,9.00,$228.69,Digital Wallet,Online,05/11/2024,UNKNOWN
+TXN_3139237,CUST_05,Valerie Hawkins,Patisserie,Item_10_PAT,18.28,9.00,$164.52,Digital Wallet,Online,18/12/2024,UNKNOWN
+TXN_9009227,CUST_38,Jeffrey Dodson,Food,Item_0_MISC,12.90,2.00,$25.80,CreditCard,In-store,19/06/2025,TRUE
+TXN_2637065,CUST_39,Erin Stevens,Food,Item_6_FOOD,17.66,6.00,$105.96,CreditCard,In-store,22/01/2024,TRUE
+TXN_5069714,CUST_05,Randy Mitchell,Food,Item_6_FOOD,26.85,8.00,$214.80,Digital Wallet,Online,18/02/2025,FALSE
+TXN_7099242,CUST_37,Eric Ramirez,Milk Products,Item_17_MILK,5.64,4.00,$22.56,Credit Card,In-store,25/08/2023,TRUE
+TXN_3714149,CUST_26,Colleen Wong,Milk Products,Item_17_MILK,30.27,7.00,$211.89,Digital Wallet,In-store,16/10/2023,TRUE
+TXN_5797124,CUST_01,Robert Bowman,Food,Item_6_FOOD,24.83,1.00,$24.83,CreditCard,Online,25/11/2023,TRUE
+TXN_2549845,CUST_43,Daniel Hernandez,Food,Item_0_MISC,8.93,9.00,$80.37,Digital Wallet,Online,13/03/2025,FALSE
+TXN_7717928,CUST_26,Stephanie Nixon,Butchers,Item_12_BUT,26.09,1.00,$26.09,Cash,In-store,25/06/2025,UNKNOWN
+TXN_5803504,CUST_36,Gene Webster,Patisserie,Item_11_PAT,11.64,8.00,$93.12,Digital Wallet,Online,17/05/2025,UNKNOWN
+TXN_8462071,CUST_17,Eric Johnson,Butchers,Item_12_BUT,26.67,5.00,$133.35,Digital Wallet,In-store,21/01/2025,TRUE
+TXN_9685012,CUST_34,Timothy Roberson,Beverages,Item_0_MISC,22.23,5.00,$111.15,Digital Wallet,Online,06/03/2026,FALSE
+TXN_6829320,CUST_31,Charlene Jones,Beverages,Item_0_MISC,29.26,2.00,$58.52,CreditCard,Online,18/02/2026,UNKNOWN
+TXN_9820619,CUST_32,David Turner,Butchers,UNKNOWN,21.10,1.00,$21.10,Cash,Online,24/07/2023,UNKNOWN
+TXN_1082325,CUST_41,Patrick Williamson,Food,Item_0_MISC,16.57,6.00,$99.42,Cash,Online,08/04/2024,FALSE
+TXN_6167253,CUST_02,Ian Gentry,Butchers,Item_12_BUT,25.70,9.00,$231.30,Digital Wallet,Online,08/05/2023,UNKNOWN
+TXN_5757103,CUST_40,Gregg Howard,Food,Item_6_FOOD,27.39,4.00,$109.56,Cash,Online,22/01/2024,UNKNOWN
+TXN_5061836,CUST_41,Ashley Mcgee,Butchers,Item_13_BUT,19.97,8.00,$159.76,CreditCard,In-store,21/11/2025,FALSE
+TXN_6265684,CUST_49,Elizabeth Turner,Food,Item_0_MISC,10.50,2.00,$21.00,Digital Wallet,Online,11/07/2023,FALSE
+TXN_5642296,CUST_35,Michael Moreno,Furniture,Item_17_FUR,33.40,6.00,$200.40,Credit Card,In-store,03/01/2024,FALSE
+TXN_5670303,CUST_49,Jacqueline Turner,Food,Item_6_FOOD,12.94,5.00,$64.70,CreditCard,In-store,24/04/2024,TRUE
+TXN_7652584,CUST_15,Daniel Nelson,Food,Item_2_FOOD,8.45,10.00,$84.50,Credit Card,In-store,23/12/2023,FALSE
+TXN_3208722,CUST_10,Amanda Henry,Milk Products,Item_0_MISC,17.44,4.00,$69.76,Credit Card,In-store,29/03/2023,UNKNOWN
+TXN_8871209,CUST_38,Kathy Sanchez,Patisserie,Item_10_PAT,33.24,7.00,$232.68,Cash,Online,04/12/2025,UNKNOWN
+TXN_7914567,CUST_47,Mr. Randy Yang,Patisserie,Item_10_PAT,31.25,5.00,$156.25,Digital Wallet,Online,24/12/2024,UNKNOWN
+TXN_7899238,CUST_14,Austin Rose,Butchers,Item_13_BUT,31.78,4.00,$127.12,Credit Card,In-store,29/05/2023,UNKNOWN
+TXN_8679317,CUST_29,George Hoffman,Furniture,Item_17_FUR,31.21,9.00,$280.89,Digital Wallet,Online,16/06/2025,TRUE
+TXN_1779815,CUST_47,Jason Mosley,Beverages,Item_0_MISC,31.17,8.00,$249.36,Digital Wallet,Online,31/08/2023,FALSE
+TXN_4408189,CUST_25,Kristina Davies,Food,Item_0_MISC,22.81,3.00,$68.43,CreditCard,Online,14/04/2023,TRUE
+TXN_4172713,CUST_49,Robert Castro,Beverages,Item_16_BEV,14.34,7.00,$100.38,Credit Card,Online,14/12/2024,UNKNOWN
+TXN_4270680,CUST_22,Lisa Armstrong,Butchers,Item_13_BUT,18.58,8.00,$148.64,CreditCard,Online,17/09/2024,UNKNOWN
+TXN_2675736,CUST_17,Julia Martin,Beverages,Item_16_BEV,10.33,2.00,$20.66,Cash,Online,26/11/2024,FALSE
+TXN_5003628,CUST_17,Melissa Walker,Furniture,Item_17_FUR,23.16,9.00,$208.44,Credit Card,In-store,06/02/2026,UNKNOWN
+TXN_6501017,CUST_47,Wanda Adams,Food,Item_2_FOOD,8.72,7.00,$61.04,CreditCard,In-store,21/11/2024,FALSE
+TXN_1553960,CUST_47,Christopher Espinoza,Butchers,Item_13_BUT,9.57,6.00,$57.42,Digital Wallet,Online,20/01/2025,TRUE
+TXN_4953623,CUST_01,Rebekah Davis,Food,Item_2_FOOD,5.34,1.00,$5.34,Digital Wallet,In-store,10/05/2025,FALSE
+TXN_2073221,CUST_20,Andrew Lopez,Patisserie,Item_0_MISC,30.70,7.00,$214.90,CreditCard,Online,16/09/2023,TRUE
+TXN_9983018,CUST_06,Nicole Clark,Furniture,Item_16_FUR,23.52,3.00,$70.56,Credit Card,In-store,04/02/2025,FALSE
+TXN_3069304,CUST_41,David Paul,Milk Products,Item_0_MISC,32.45,6.00,$194.70,CreditCard,In-store,12/04/2023,TRUE
+TXN_9854827,CUST_35,William Jennings,Beverages,Item_15_BEV,34.54,8.00,$276.32,Credit Card,In-store,04/11/2024,UNKNOWN
+TXN_8463113,CUST_46,Matthew Gibson,Furniture,Item_16_FUR,12.54,1.00,$12.54,Credit Card,Online,20/03/2024,TRUE
+TXN_7695458,CUST_18,Michelle Mills,Furniture,Item_16_FUR,6.89,2.00,$13.78,Digital Wallet,Online,04/09/2025,FALSE
+TXN_1120059,CUST_39,Lawrence Castillo,Beverages,UNKNOWN,18.36,8.00,$146.88,Digital Wallet,In-store,01/05/2023,UNKNOWN
+TXN_5583782,CUST_17,Cheryl Collins,Milk Products,Item_18_MILK,9.32,7.00,$65.24,Digital Wallet,Online,24/02/2024,FALSE
+TXN_8357353,CUST_24,Martha Houston,Patisserie,Item_11_PAT,27.84,6.00,$167.04,Digital Wallet,Online,24/11/2023,UNKNOWN
+TXN_5031681,CUST_13,Sarah Miller,Beverages,Item_0_MISC,25.00,7.00,$175.00,CreditCard,In-store,20/07/2024,UNKNOWN
+TXN_3168380,CUST_50,Ronald Stewart,Patisserie,Item_11_PAT,7.76,9.00,$69.84,Digital Wallet,Online,30/12/2024,UNKNOWN
+TXN_4588076,CUST_07,Joshua Hinton,Food,Item_0_MISC,34.04,5.00,$170.20,Digital Wallet,In-store,29/09/2025,FALSE
+TXN_5003809,CUST_30,Katelyn Robinson,Patisserie,Item_10_PAT,7.08,6.00,$42.48,Credit Card,Online,12/04/2024,FALSE
+TXN_1595515,CUST_48,Bryan Johnson,Food,Item_0_MISC,9.08,5.00,$45.40,Digital Wallet,In-store,06/09/2024,TRUE
+TXN_8479993,CUST_09,Anne Fowler,Patisserie,Item_11_PAT,20.43,8.00,$163.44,Digital Wallet,In-store,10/05/2024,FALSE
+TXN_3500474,CUST_17,Carrie Bush,Food,Item_0_MISC,22.08,4.00,$88.32,Cash,Online,15/12/2025,TRUE
+TXN_8005890,CUST_33,Allison Wolfe,Furniture,Item_16_FUR,28.84,1.00,$28.84,Digital Wallet,Online,24/07/2025,UNKNOWN
+TXN_9527516,CUST_04,Alejandra Tran,Furniture,Item_17_FUR,27.01,8.00,$216.08,Digital Wallet,In-store,12/05/2025,UNKNOWN
+TXN_9230497,CUST_23,Benjamin Medina,Furniture,Item_16_FUR,14.73,9.00,$132.57,CreditCard,Online,26/05/2024,FALSE
+TXN_2465656,CUST_15,Sarah Lawrence,Beverages,Item_15_BEV,19.37,5.00,$96.85,Credit Card,Online,21/01/2024,TRUE
+TXN_5196747,CUST_06,Kelly Shaw,Furniture,Item_17_FUR,30.31,7.00,$212.17,Digital Wallet,In-store,20/06/2023,TRUE
+TXN_7093693,CUST_47,Alisha Simon,Furniture,Item_17_FUR,24.95,1.00,$24.95,Digital Wallet,In-store,20/03/2026,FALSE
+TXN_3504526,CUST_24,Natalie Little,Milk Products,Item_0_MISC,17.91,10.00,$179.10,Credit Card,Online,15/11/2025,FALSE
+TXN_9077158,CUST_24,Julie Tate,Beverages,Item_0_MISC,19.16,6.00,$114.96,Digital Wallet,Online,17/09/2025,FALSE
+TXN_7603156,CUST_39,Joshua Allen,Furniture,Item_16_FUR,26.81,9.00,$241.29,Credit Card,In-store,10/01/2025,TRUE
+TXN_7562817,CUST_21,Erin Jackson,Food,Item_6_FOOD,6.49,2.00,$12.98,Credit Card,In-store,17/08/2024,TRUE
+TXN_4728122,CUST_23,Margaret Williams,Food,Item_2_FOOD,7.83,4.00,$31.32,Cash,Online,30/01/2024,UNKNOWN
+TXN_7086695,CUST_02,Doris Fisher,Butchers,Item_12_BUT,28.62,1.00,$28.62,Credit Card,Online,17/03/2025,TRUE
+TXN_8338512,CUST_39,Philip Lozano,Beverages,Item_15_BEV,22.81,8.00,$182.48,Cash,In-store,24/10/2025,TRUE
+TXN_2276475,CUST_46,Christopher Schmidt,Food,Item_1_FOOD,26.58,5.00,$132.90,Digital Wallet,In-store,03/10/2023,UNKNOWN
+TXN_6877205,CUST_06,Lisa Harrison MD,Patisserie,Item_0_MISC,17.52,2.00,$35.04,Cash,Online,22/05/2023,UNKNOWN
+TXN_3155491,CUST_01,Jane Thompson,Beverages,Item_0_MISC,7.82,6.00,$46.92,Digital Wallet,In-store,23/06/2023,UNKNOWN
+TXN_8452147,CUST_23,John Smith,Food,Item_2_FOOD,11.43,8.00,$91.44,Credit Card,Online,20/08/2024,FALSE
+TXN_2656027,CUST_50,Larry Torres,Milk Products,Item_0_MISC,13.43,2.00,$26.86,Cash,Online,03/04/2024,FALSE
+TXN_3344923,CUST_32,Ronald Taylor,Beverages,Item_0_MISC,8.29,7.00,$58.03,Digital Wallet,Online,30/10/2025,TRUE
+TXN_7425124,CUST_38,Michael Lee,Beverages,Item_16_BEV,16.89,8.00,$135.12,Credit Card,In-store,16/10/2023,TRUE
+TXN_7319208,CUST_21,Jeffery Mata MD,Patisserie,Item_11_PAT,33.87,2.00,$67.74,Cash,In-store,16/06/2023,TRUE
+TXN_8449394,CUST_17,David Jones,Beverages,Item_15_BEV,14.96,8.00,$119.68,Digital Wallet,Online,10/03/2024,UNKNOWN
+TXN_8716778,CUST_26,Mark Richard,Beverages,Item_0_MISC,13.74,2.00,$27.48,CreditCard,Online,06/11/2025,FALSE
+TXN_5347722,CUST_24,Daniel Wilkins,Milk Products,Item_18_MILK,33.59,5.00,$167.95,Cash,In-store,19/06/2023,UNKNOWN
+TXN_3408624,CUST_24,Brenda Moss,Milk Products,Item_17_MILK,21.94,7.00,$153.58,CreditCard,Online,03/01/2026,UNKNOWN
+TXN_9292482,CUST_10,Heather Green,Furniture,Item_16_FUR,32.14,7.00,$224.98,CreditCard,In-store,08/10/2025,TRUE
+TXN_7867949,CUST_49,Michael Arnold,Food,Item_0_MISC,11.67,4.00,$46.68,Digital Wallet,Online,28/06/2025,TRUE
+TXN_4094365,CUST_16,Nancy Snow,Butchers,Item_12_BUT,11.99,9.00,$107.91,CreditCard,Online,26/05/2023,TRUE
+TXN_5092293,CUST_06,Jeremy Chen,Beverages,Item_0_MISC,31.31,6.00,$187.86,Credit Card,In-store,31/03/2024,TRUE
+TXN_9469629,CUST_01,Christopher Sullivan,Furniture,Item_17_FUR,6.24,4.00,$24.96,Credit Card,Online,08/01/2024,FALSE
+TXN_3529466,CUST_25,William Dunlap,Butchers,Item_13_BUT,23.89,7.00,$167.23,CreditCard,In-store,11/02/2026,TRUE
+TXN_2719742,CUST_46,Megan Torres,Beverages,Item_15_BEV,5.41,10.00,$54.10,CreditCard,Online,26/07/2025,FALSE
+TXN_8641476,CUST_26,Mr. Matthew Taylor,Patisserie,UNKNOWN,26.43,8.00,$211.44,Digital Wallet,Online,19/10/2025,TRUE
+TXN_1394204,CUST_28,Regina Lopez,Food,Item_0_MISC,21.22,6.00,$127.32,Digital Wallet,Online,04/03/2025,UNKNOWN
+TXN_5090492,CUST_40,Tina Johnson,Milk Products,Item_17_MILK,21.89,1.00,$21.89,Digital Wallet,Online,28/08/2024,FALSE
+TXN_1513074,CUST_29,Suzanne Griffin,Food,UNKNOWN,5.62,5.00,$28.10,Digital Wallet,In-store,23/03/2023,UNKNOWN
+TXN_3731242,CUST_49,Stephanie Taylor,Beverages,Item_0_MISC,32.91,7.00,$230.37,Digital Wallet,In-store,21/03/2024,FALSE
+TXN_3567708,CUST_41,Andrea Barnes,Beverages,Item_16_BEV,25.97,5.00,$129.85,CreditCard,Online,22/04/2023,UNKNOWN
+TXN_4924813,CUST_45,Elizabeth Stevens,Milk Products,Item_0_MISC,34.14,10.00,$341.40,Cash,Online,23/03/2023,UNKNOWN
+TXN_4863337,CUST_50,Jamie Johnson PhD,Patisserie,Item_10_PAT,32.05,9.00,$288.45,Digital Wallet,Online,30/11/2025,TRUE
+TXN_5965141,CUST_43,Brandon Aguilar,Beverages,Item_0_MISC,11.45,6.00,$68.70,Digital Wallet,Online,22/07/2025,TRUE
+TXN_6680939,CUST_45,Alan Richard,Food,Item_0_MISC,31.73,6.00,$190.38,Digital Wallet,Online,04/03/2025,TRUE
+TXN_3812760,CUST_19,Nicholas Edwards,Butchers,Item_12_BUT,18.03,7.00,$126.21,CreditCard,In-store,25/03/2025,UNKNOWN
+TXN_1290643,CUST_31,Mrs. Laura Campbell,Butchers,Item_13_BUT,24.22,7.00,$169.54,Cash,In-store,30/11/2023,UNKNOWN
+TXN_8766746,CUST_35,Keith Dean,Beverages,UNKNOWN,13.48,4.00,$53.92,Digital Wallet,Online,13/11/2025,UNKNOWN
+TXN_7859793,CUST_40,Jerry Rivera,Patisserie,UNKNOWN,24.17,10.00,$241.70,Cash,In-store,14/06/2023,TRUE
+TXN_1385896,CUST_07,Jordan Phillips,Beverages,Item_0_MISC,27.78,6.00,$166.68,Digital Wallet,In-store,03/09/2024,FALSE
+TXN_4597691,CUST_47,Rachael Grimes,Food,Item_1_FOOD,11.18,7.00,$78.26,Digital Wallet,In-store,19/10/2025,UNKNOWN
+TXN_7574747,CUST_35,Nicole Bailey,Beverages,Item_15_BEV,14.48,9.00,$130.32,CreditCard,Online,30/04/2023,TRUE
+TXN_7674987,CUST_47,Eric Mayer,Food,Item_6_FOOD,31.10,8.00,$248.80,Cash,Online,24/08/2025,TRUE
+TXN_7911353,CUST_17,Robert Lloyd,Milk Products,Item_18_MILK,14.81,5.00,$74.05,Credit Card,In-store,12/01/2024,FALSE
+TXN_1415719,CUST_38,Nathan Vazquez,Patisserie,Item_10_PAT,27.72,5.00,$138.60,Credit Card,Online,17/05/2024,UNKNOWN
+TXN_5376253,CUST_18,Tiffany Wyatt,Patisserie,Item_10_PAT,12.89,9.00,$116.01,Digital Wallet,Online,31/05/2025,TRUE
+TXN_3157886,CUST_15,Sara Williams,Milk Products,Item_0_MISC,8.45,2.00,$16.90,CreditCard,Online,27/06/2024,UNKNOWN
+TXN_5703970,CUST_35,Michelle Sherman,Beverages,Item_16_BEV,33.23,1.00,$33.23,Credit Card,Online,03/10/2025,FALSE
+TXN_6654271,CUST_14,Reginald Vega,Milk Products,Item_17_MILK,34.60,1.00,$34.60,Digital Wallet,In-store,12/07/2023,TRUE
+TXN_6383769,CUST_21,Tami Robinson,Patisserie,Item_0_MISC,10.20,2.00,$20.40,Credit Card,Online,06/12/2024,UNKNOWN
+TXN_7642038,CUST_04,Laurie Stafford,Milk Products,Item_0_MISC,32.34,4.00,$129.36,CreditCard,Online,26/05/2025,FALSE
+TXN_3873223,CUST_49,Laura Mueller,Beverages,Item_0_MISC,25.13,7.00,$175.91,Credit Card,In-store,27/04/2025,UNKNOWN
+TXN_8352781,CUST_41,Jill Hall,Beverages,Item_0_MISC,34.36,9.00,$309.24,Digital Wallet,In-store,20/02/2024,TRUE
+TXN_2553105,CUST_20,Daniel Russell,Milk Products,Item_17_MILK,22.33,9.00,$200.97,Cash,In-store,29/04/2024,TRUE
+TXN_9867946,CUST_34,Lucas Estrada,Beverages,Item_16_BEV,16.00,9.00,$144.00,CreditCard,Online,22/12/2025,UNKNOWN
+TXN_7872662,CUST_30,Amy Rodriguez,Beverages,Item_0_MISC,12.84,9.00,$115.56,Digital Wallet,In-store,19/03/2026,FALSE
+TXN_3069066,CUST_14,Samantha Coleman,Patisserie,Item_0_MISC,7.56,9.00,$68.04,CreditCard,Online,30/01/2024,UNKNOWN
+TXN_6293865,CUST_09,Joy Williams,Food,Item_6_FOOD,32.71,4.00,$130.84,Cash,In-store,15/03/2026,FALSE
+TXN_4277278,CUST_39,Ann Roberts,Beverages,Item_0_MISC,34.98,8.00,$279.84,Credit Card,In-store,05/11/2024,TRUE
+TXN_7131266,CUST_05,Heather Walker,Patisserie,Item_0_MISC,17.75,9.00,$159.75,Cash,In-store,23/04/2025,FALSE
+TXN_3838962,CUST_09,Tyler Thomas,Food,Item_0_MISC,12.06,5.00,$60.30,Digital Wallet,In-store,06/05/2025,UNKNOWN
+TXN_3335895,CUST_23,Shawn Rose,Beverages,Item_15_BEV,15.22,1.00,$15.22,Cash,In-store,14/06/2024,TRUE
+TXN_7072628,CUST_40,Samuel Duncan,Milk Products,Item_0_MISC,33.41,1.00,$33.41,CreditCard,Online,18/10/2024,UNKNOWN
+TXN_2803816,CUST_17,John Bond,Beverages,Item_16_BEV,31.48,6.00,$188.88,Cash,In-store,05/12/2024,FALSE
+TXN_8809489,CUST_42,Dean Mata,Beverages,Item_0_MISC,20.88,10.00,$208.80,Digital Wallet,Online,21/08/2025,UNKNOWN
+TXN_4118377,CUST_17,Dawn Holmes,Beverages,Item_16_BEV,23.53,1.00,$23.53,Cash,In-store,21/12/2023,TRUE
+TXN_3454312,CUST_26,Raymond Barker,Beverages,Item_0_MISC,15.56,5.00,$77.80,Cash,In-store,10/03/2026,FALSE
+TXN_9912898,CUST_42,Ronald Park,Furniture,Item_17_FUR,12.99,2.00,$25.98,Digital Wallet,In-store,05/09/2025,TRUE
+TXN_4587945,CUST_20,Gina Parker,Patisserie,Item_0_MISC,23.49,2.00,$46.98,Digital Wallet,In-store,25/11/2024,UNKNOWN
+TXN_2133338,CUST_37,Kelly Conner,Patisserie,Item_10_PAT,34.53,3.00,$103.59,CreditCard,Online,06/07/2024,TRUE
+TXN_2433689,CUST_18,Christine Burch,Food,Item_0_MISC,13.76,4.00,$55.04,Digital Wallet,In-store,12/04/2025,TRUE
+TXN_2088028,CUST_22,Connor Webster,Butchers,Item_13_BUT,30.99,5.00,$154.95,Cash,In-store,25/05/2025,UNKNOWN
+TXN_2133533,CUST_10,Nicholas Ferrell,Furniture,Item_16_FUR,25.86,3.00,$77.58,Digital Wallet,Online,07/04/2023,TRUE
+TXN_5074628,CUST_27,Robert Bell,Beverages,Item_0_MISC,8.55,8.00,$68.40,Credit Card,In-store,15/11/2025,FALSE
+TXN_5084322,CUST_34,Brenda York,Patisserie,Item_0_MISC,22.63,5.00,$113.15,Digital Wallet,In-store,10/04/2023,UNKNOWN
+TXN_3795416,CUST_13,Shannon Riley,Milk Products,Item_0_MISC,22.36,9.00,$201.24,Credit Card,In-store,08/10/2023,UNKNOWN
+TXN_2615872,CUST_46,Joann Baldwin,Food,Item_2_FOOD,32.48,10.00,$324.80,Digital Wallet,Online,26/11/2024,TRUE
+TXN_1963599,CUST_21,Emily Clark,Milk Products,Item_17_MILK,9.12,4.00,$36.48,Credit Card,In-store,25/08/2024,TRUE
+TXN_9030002,CUST_27,Shelby Garcia,Beverages,Item_0_MISC,17.40,8.00,$139.20,Digital Wallet,In-store,12/10/2025,FALSE
+TXN_1766975,CUST_25,Chelsea Hughes,Furniture,Item_16_FUR,5.74,6.00,$34.44,Digital Wallet,Online,16/08/2025,TRUE
+TXN_6022934,CUST_20,Robert Morris,Butchers,Item_12_BUT,25.32,9.00,$227.88,Credit Card,Online,16/12/2023,TRUE
+TXN_7616734,CUST_27,Louis Edwards,Milk Products,Item_0_MISC,11.98,6.00,$71.88,Digital Wallet,Online,28/09/2023,TRUE
+TXN_1626553,CUST_16,Lisa Richardson,Beverages,Item_0_MISC,26.10,8.00,$208.80,Credit Card,In-store,12/01/2025,UNKNOWN
+TXN_5986117,CUST_35,Tracy Green,Butchers,Item_12_BUT,28.59,7.00,$200.13,Digital Wallet,Online,23/06/2023,TRUE
+TXN_5397115,CUST_46,James Short,Food,Item_0_MISC,30.29,1.00,$30.29,Cash,In-store,30/03/2024,TRUE
+TXN_2226409,CUST_50,Antonio Ramirez,Patisserie,Item_0_MISC,33.52,3.00,$100.56,CreditCard,In-store,28/03/2023,FALSE
+TXN_5063337,CUST_41,Samuel Lozano,Food,Item_6_FOOD,7.23,9.00,$65.07,Cash,In-store,08/06/2023,UNKNOWN
+TXN_3614004,CUST_05,Allen Roberts,Milk Products,Item_17_MILK,28.67,5.00,$143.35,Cash,In-store,25/12/2025,TRUE
+TXN_9924891,CUST_48,Diana Allen,Milk Products,Item_0_MISC,20.82,7.00,$145.74,Credit Card,In-store,02/01/2024,UNKNOWN
+TXN_5148566,CUST_12,Joseph Spencer,Beverages,Item_0_MISC,11.06,9.00,$99.54,Credit Card,In-store,31/03/2023,FALSE
+TXN_3564500,CUST_48,Julie Gardner,Beverages,Item_15_BEV,32.75,8.00,$262.00,Cash,In-store,08/12/2023,UNKNOWN
+TXN_2269976,CUST_38,Peter Webb,Food,Item_0_MISC,27.28,9.00,$245.52,Credit Card,In-store,24/11/2025,UNKNOWN
+TXN_5891810,CUST_26,Tanya Rodriguez,Furniture,Item_17_FUR,13.05,6.00,$78.30,CreditCard,In-store,22/04/2023,UNKNOWN
+TXN_4994391,CUST_10,Phyllis Nash,Furniture,Item_17_FUR,34.03,7.00,$238.21,Digital Wallet,Online,22/03/2025,UNKNOWN
+TXN_3533297,CUST_37,Jennifer Hernandez,Food,Item_1_FOOD,25.69,3.00,$77.07,Digital Wallet,In-store,12/11/2025,FALSE
+TXN_2800843,CUST_38,Victoria King,Furniture,Item_16_FUR,8.77,6.00,$52.62,Digital Wallet,In-store,17/10/2025,FALSE
+TXN_1445644,CUST_19,Jennifer Collier,Beverages,Item_0_MISC,13.07,6.00,$78.42,CreditCard,In-store,21/06/2023,TRUE
+TXN_9517502,CUST_42,Lisa Hoffman,Milk Products,Item_17_MILK,9.52,6.00,$57.12,Digital Wallet,Online,09/10/2023,FALSE
+TXN_4374352,CUST_14,Jesse Bates,Milk Products,Item_0_MISC,21.61,4.00,$86.44,CreditCard,In-store,27/12/2025,UNKNOWN
+TXN_8665247,CUST_05,Jillian Kelley,Patisserie,Item_0_MISC,17.75,1.00,$17.75,Digital Wallet,Online,07/12/2024,TRUE
+TXN_2770202,CUST_05,Mrs. Susan Figueroa,Food,Item_1_FOOD,28.77,1.00,$28.77,Cash,Online,29/01/2024,FALSE
+TXN_6539196,CUST_18,Ms. Ann Choi,Patisserie,UNKNOWN,19.95,10.00,$199.50,Credit Card,Online,10/11/2025,TRUE
+TXN_4704243,CUST_06,Kevin Smith,Beverages,Item_15_BEV,8.20,8.00,$65.60,Cash,Online,22/10/2023,TRUE
+TXN_3364063,CUST_18,Angela Roberts,Milk Products,Item_0_MISC,24.92,7.00,$174.44,Cash,In-store,31/01/2026,UNKNOWN
+TXN_2001826,CUST_40,Jeremiah Russell,Patisserie,Item_10_PAT,25.45,7.00,$178.15,Digital Wallet,In-store,28/10/2023,UNKNOWN
+TXN_7884088,CUST_01,Marissa Perez,Food,Item_6_FOOD,14.10,3.00,$42.30,Credit Card,Online,14/12/2024,FALSE
+TXN_8737876,CUST_12,Brandon Anderson,Milk Products,Item_0_MISC,31.70,8.00,$253.60,Digital Wallet,In-store,22/06/2024,TRUE
+TXN_7387192,CUST_21,Lori Lee,Furniture,Item_17_FUR,34.75,7.00,$243.25,CreditCard,In-store,05/09/2023,TRUE
+TXN_7449570,CUST_41,Warren Johnston,Food,Item_0_MISC,28.29,4.00,$113.16,Digital Wallet,Online,30/07/2025,UNKNOWN
+TXN_8533864,CUST_03,Stacy Solis,Milk Products,Item_17_MILK,24.40,5.00,$122.00,Cash,Online,06/12/2023,UNKNOWN
+TXN_3595598,CUST_35,Trevor Nelson,Beverages,Item_16_BEV,16.74,5.00,$83.70,CreditCard,Online,13/12/2024,UNKNOWN
+TXN_4285785,CUST_29,Pam Mata,Milk Products,Item_17_MILK,20.14,8.00,$161.12,CreditCard,In-store,05/11/2025,TRUE
+TXN_9405181,CUST_30,Shawn Williams,Beverages,Item_0_MISC,6.63,7.00,$46.41,Digital Wallet,Online,24/07/2025,TRUE
+TXN_4768327,CUST_45,Zachary Hall,Butchers,Item_13_BUT,27.65,4.00,$110.60,CreditCard,In-store,10/09/2025,UNKNOWN
+TXN_5477405,CUST_33,Patrick Carlson,Butchers,Item_12_BUT,34.05,9.00,$306.45,Cash,In-store,25/11/2023,FALSE
+TXN_8587206,CUST_43,Andre Gutierrez,Milk Products,Item_0_MISC,34.09,4.00,$136.36,Credit Card,In-store,04/03/2025,TRUE
+TXN_5930901,CUST_45,Rachel Buck,Beverages,Item_0_MISC,24.22,7.00,$169.54,Cash,In-store,23/03/2023,UNKNOWN
+TXN_9785346,CUST_33,Tiffany Baker,Beverages,Item_15_BEV,16.01,4.00,$64.04,Credit Card,Online,05/01/2024,UNKNOWN
+TXN_6556370,CUST_25,Ann Cooper,Patisserie,Item_10_PAT,11.45,7.00,$80.15,Credit Card,In-store,03/08/2023,FALSE
+TXN_5290708,CUST_35,Anthony Bailey,Food,Item_0_MISC,29.19,9.00,$262.71,Digital Wallet,In-store,25/03/2024,UNKNOWN
+TXN_7802354,CUST_03,Patricia Price,Food,Item_2_FOOD,21.72,4.00,$86.88,Cash,Online,14/09/2025,FALSE
+TXN_9851708,CUST_18,Kathleen Doyle,Beverages,Item_0_MISC,5.95,5.00,$29.75,Digital Wallet,In-store,24/07/2024,FALSE
+TXN_8110220,CUST_25,Tonya Ali,Food,Item_1_FOOD,17.62,5.00,$88.10,Digital Wallet,Online,14/11/2025,TRUE
+TXN_7296829,CUST_38,Dr. Lori Jones,Food,UNKNOWN,11.29,5.00,$56.45,CreditCard,In-store,01/10/2025,TRUE
+TXN_6764515,CUST_21,Megan Francis,Patisserie,Item_10_PAT,32.04,5.00,$160.20,Credit Card,In-store,17/05/2024,TRUE
+TXN_4425529,CUST_13,Mrs. Patricia Tran,Food,Item_0_MISC,26.84,7.00,$187.88,CreditCard,Online,15/03/2026,TRUE
+TXN_4672858,CUST_31,Erica Short,Butchers,Item_13_BUT,27.92,10.00,$279.20,Credit Card,Online,07/01/2024,UNKNOWN
+TXN_9639651,CUST_28,Robert Murphy,Food,UNKNOWN,31.13,3.00,$93.39,Digital Wallet,In-store,25/01/2025,FALSE
+TXN_9596876,CUST_17,Travis West,Beverages,Item_15_BEV,10.67,6.00,$64.02,Digital Wallet,In-store,01/01/2025,FALSE
+TXN_6109891,CUST_36,Tracy Collins,Patisserie,Item_11_PAT,25.30,9.00,$227.70,Cash,Online,14/09/2025,TRUE
+TXN_1906910,CUST_04,Laura Perkins,Beverages,Item_0_MISC,19.30,7.00,$135.10,Digital Wallet,Online,24/11/2024,FALSE
+TXN_9232005,CUST_11,Gregory Smith,Furniture,Item_17_FUR,18.21,7.00,$127.47,Credit Card,Online,11/02/2025,UNKNOWN
+TXN_9085429,CUST_24,Rhonda Benson,Furniture,Item_17_FUR,13.48,7.00,$94.36,Digital Wallet,Online,09/10/2025,UNKNOWN
+TXN_8150222,CUST_17,Joyce Rose,Milk Products,Item_18_MILK,33.12,6.00,$198.72,Digital Wallet,Online,21/03/2024,TRUE
+TXN_2852982,CUST_24,Robert Parker,Beverages,Item_0_MISC,29.23,1.00,$29.23,Cash,Online,14/03/2026,FALSE
+TXN_2529966,CUST_27,Karen Sosa,Butchers,Item_13_BUT,26.09,5.00,$130.45,Cash,In-store,08/02/2024,TRUE
+TXN_8796041,CUST_03,Nancy Carter,Food,Item_0_MISC,7.32,5.00,$36.60,CreditCard,In-store,18/03/2025,TRUE
+TXN_2394502,CUST_48,Matthew Lynn,Food,UNKNOWN,34.57,7.00,$241.99,CreditCard,In-store,13/08/2023,TRUE
+TXN_8289444,CUST_09,Ann Clark,Beverages,UNKNOWN,10.10,1.00,$10.10,Digital Wallet,Online,13/02/2025,FALSE
+TXN_5825749,CUST_21,Grace Santos,Beverages,Item_0_MISC,27.29,9.00,$245.61,Credit Card,In-store,08/03/2025,TRUE
+TXN_2145081,CUST_24,Michelle Shaffer,Patisserie,UNKNOWN,21.61,7.00,$151.27,Digital Wallet,In-store,15/07/2024,FALSE
+TXN_7844446,CUST_44,Amy Parker,Food,Item_1_FOOD,21.87,4.00,$87.48,Digital Wallet,Online,20/09/2024,FALSE
+TXN_1633705,CUST_46,Kent Hernandez,Beverages,Item_16_BEV,13.47,10.00,$134.70,Digital Wallet,In-store,09/08/2025,UNKNOWN
+TXN_7769526,CUST_42,Jeffrey Salazar,Furniture,Item_17_FUR,9.74,10.00,$97.40,Cash,In-store,27/09/2025,TRUE
+TXN_8376232,CUST_33,Lydia Thomas,Patisserie,Item_11_PAT,16.75,1.00,$16.75,Digital Wallet,Online,11/12/2023,TRUE
+TXN_9472547,CUST_26,William Benson,Milk Products,UNKNOWN,34.58,3.00,$103.74,Cash,In-store,10/07/2023,UNKNOWN
+TXN_6333381,CUST_26,Teresa Welch,Milk Products,Item_17_MILK,25.36,7.00,$177.52,Cash,Online,06/02/2025,FALSE
+TXN_4130849,CUST_40,Timothy Parker,Milk Products,Item_0_MISC,8.33,10.00,$83.30,Cash,Online,19/09/2024,TRUE
+TXN_4670410,CUST_12,Dominique Weeks,Patisserie,Item_10_PAT,10.68,9.00,$96.12,Digital Wallet,Online,30/12/2024,UNKNOWN
+TXN_7412914,CUST_50,Karen Reyes,Patisserie,Item_0_MISC,33.86,1.00,$33.86,Credit Card,In-store,19/10/2025,FALSE
+TXN_8555095,CUST_36,William Jones,Milk Products,Item_0_MISC,16.01,3.00,$48.03,Digital Wallet,Online,25/12/2023,UNKNOWN
+TXN_7611040,CUST_29,Claudia Perry,Butchers,Item_12_BUT,7.98,1.00,$7.98,CreditCard,In-store,15/01/2026,FALSE
+TXN_6933025,CUST_30,Alisha Lopez PhD,Butchers,Item_12_BUT,5.76,9.00,$51.84,CreditCard,In-store,20/08/2023,UNKNOWN
+TXN_6443031,CUST_50,Edward Castro,Patisserie,Item_10_PAT,21.96,6.00,$131.76,Credit Card,Online,13/04/2024,FALSE
+TXN_3397589,CUST_48,Vincent Randall,Food,UNKNOWN,31.24,9.00,$281.16,Cash,Online,07/04/2024,FALSE
+TXN_6333484,CUST_18,George Chan,Beverages,Item_15_BEV,7.56,7.00,$52.92,Cash,Online,03/03/2025,UNKNOWN
+TXN_5744356,CUST_38,Tracy Morgan,Beverages,Item_16_BEV,16.37,8.00,$130.96,Cash,Online,17/07/2024,FALSE
+TXN_8336409,CUST_04,David Graham,Furniture,Item_16_FUR,19.93,9.00,$179.37,CreditCard,Online,15/02/2026,FALSE
+TXN_3319830,CUST_35,Johnny Johnson,Beverages,Item_15_BEV,32.18,9.00,$289.62,Cash,Online,20/05/2024,TRUE
+TXN_8732024,CUST_02,Sabrina Rhodes,Milk Products,Item_0_MISC,16.02,6.00,$96.12,Digital Wallet,Online,30/11/2024,TRUE
+TXN_4764043,CUST_05,Melinda Williams,Butchers,Item_12_BUT,13.74,5.00,$68.70,CreditCard,Online,19/03/2025,FALSE
+TXN_8039166,CUST_48,Daniel Santiago,Beverages,Item_0_MISC,16.17,6.00,$97.02,Cash,Online,17/09/2025,UNKNOWN
+TXN_3502470,CUST_47,Stephanie Evans,Patisserie,Item_11_PAT,32.05,4.00,$128.20,Credit Card,In-store,15/03/2024,UNKNOWN
+TXN_4472893,CUST_50,Janice Lawson,Butchers,Item_12_BUT,23.00,2.00,$46.00,Cash,Online,22/03/2023,FALSE
+TXN_6967738,CUST_06,Christopher Mora,Beverages,Item_0_MISC,26.16,3.00,$78.48,Cash,In-store,06/08/2025,TRUE
+TXN_9479303,CUST_24,Stephanie Drake,Butchers,Item_13_BUT,11.56,9.00,$104.04,Cash,Online,27/12/2024,UNKNOWN
+TXN_7748404,CUST_40,John Taylor,Patisserie,Item_0_MISC,34.98,8.00,$279.84,Digital Wallet,Online,29/04/2025,UNKNOWN
+TXN_7933455,CUST_30,Michelle Morris,Food,Item_1_FOOD,13.56,7.00,$94.92,Digital Wallet,In-store,18/07/2024,TRUE
+TXN_8453885,CUST_33,Diana Stafford,Beverages,Item_0_MISC,12.58,9.00,$113.22,CreditCard,In-store,29/01/2025,UNKNOWN
+TXN_8848359,CUST_49,Ashley Moore,Milk Products,Item_0_MISC,12.59,7.00,$88.13,Cash,Online,20/04/2025,UNKNOWN
+TXN_9658620,CUST_20,Michael Reeves,Food,Item_0_MISC,30.50,2.00,$61.00,Digital Wallet,Online,14/05/2025,TRUE
+TXN_7813393,CUST_21,Kristy Allen,Milk Products,Item_18_MILK,23.82,1.00,$23.82,Credit Card,In-store,07/04/2023,UNKNOWN
+TXN_6486639,CUST_09,Angel Ray,Beverages,Item_16_BEV,7.88,2.00,$15.76,Digital Wallet,Online,01/02/2024,FALSE
+TXN_5909824,CUST_33,Joseph Adams,Patisserie,Item_11_PAT,19.56,1.00,$19.56,Digital Wallet,In-store,03/12/2024,UNKNOWN
+TXN_2577422,CUST_32,Christopher Collins,Beverages,Item_16_BEV,6.41,2.00,$12.82,CreditCard,In-store,08/03/2025,TRUE
+TXN_6341276,CUST_44,Sherri Choi,Milk Products,Item_17_MILK,28.02,2.00,$56.04,CreditCard,In-store,08/01/2025,UNKNOWN
+TXN_4067009,CUST_08,Steven Wallace,Patisserie,Item_10_PAT,29.99,5.00,$149.95,Cash,In-store,19/12/2024,FALSE
+TXN_5863506,CUST_36,Ronnie Smith,Milk Products,Item_17_MILK,33.26,6.00,$199.56,Cash,In-store,20/03/2025,FALSE
+TXN_2559196,CUST_47,Calvin Page,Butchers,Item_13_BUT,7.08,5.00,$35.40,CreditCard,Online,07/08/2025,TRUE
+TXN_4731549,CUST_04,Denise Smith,Milk Products,Item_0_MISC,24.09,4.00,$96.36,Digital Wallet,Online,27/12/2023,TRUE
+TXN_3627544,CUST_34,Jill Williams,Milk Products,Item_0_MISC,10.78,5.00,$53.90,Cash,In-store,18/06/2025,FALSE
+TXN_3517026,CUST_39,Lauren Kelly,Food,Item_0_MISC,25.03,5.00,$125.15,Digital Wallet,Online,30/03/2023,TRUE
+TXN_8759225,CUST_38,Jacob Kelley,Beverages,UNKNOWN,30.94,10.00,$309.40,Digital Wallet,Online,27/10/2023,FALSE
+TXN_8445680,CUST_21,James Miller,Patisserie,Item_0_MISC,32.65,7.00,$228.55,Cash,Online,21/10/2025,UNKNOWN
